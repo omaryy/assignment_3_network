@@ -1,0 +1,5 @@
+localhost
+1237
+4444
+omar.txt
+100

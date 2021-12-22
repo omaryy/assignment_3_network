@@ -1,0 +1,5876 @@
+A request is received for file : omar.txt
+FORKING NEW PROCESS TO HANDLE THE SENDING
+child process created 
+creating new socket to handel the connection
+Child Socket Created
+GBN
+pkt 0 is sent
+pkt 1 is sent
+ack 0 received
+increase  window size  from  2 TO 4
+pkt is acked...move the window
+base  pkt  is = 1
+ack 1 received
+increase  window size  from  4 TO 8
+pkt is acked...move the window
+base  pkt  is = 2
+pkt 2 is sent
+pkt 3 is sent
+pkt 4 is sent
+pkt 5 is sent
+pkt 6 is sent
+pkt 7 is sent
+pkt 8 is sent
+pkt 9 is sent
+ack 2 received
+increase  window size  from  8 TO 16
+pkt is acked...move the window
+base  pkt  is = 3
+ack 3 received
+increase  window size  from  16 TO 32
+pkt is acked...move the window
+base  pkt  is = 4
+ack 4 received
+increase window size  from  0 TO 50
+pkt is acked...move the window
+base  pkt  is = 5
+ack 5 received
+increase  window size  from  50 TO 51
+pkt is acked...move the window
+base  pkt  is = 6
+ack 6 received
+increase  window size  from  51 TO 52
+pkt is acked...move the window
+base  pkt  is = 7
+ack 7 received
+increase  window size  from  52 TO 53
+pkt is acked...move the window
+base  pkt  is = 8
+ack 8 received
+increase  window size  from  53 TO 54
+pkt is acked...move the window
+base  pkt  is = 9
+ack 9 received
+increase  window size  from  54 TO 55
+pkt is acked...move the window
+base  pkt  is = 10
+pkt 10 is sent
+pkt 11 is sent
+pkt 12 is sent
+pkt 13 is sent
+pkt 14 is sent
+pkt 15 is sent
+pkt 16 is sent
+pkt 17 is sent
+pkt 18 is sent
+pkt 19 is sent
+pkt 20 is sent
+pkt 21 is sent
+ack 10 received
+increase  window size  from  55 TO 56
+pkt is acked...move the window
+base  pkt  is = 11
+pkt 22 is sent
+pkt 23 is sent
+pkt 24 is sent
+pkt 25 is sent
+pkt 26 is sent
+pkt 27 is sent
+pkt 28 is sent
+pkt 29 is sent
+pkt 30 is sent
+pkt 31 is sent
+pkt 32 is sent
+pkt 33 is sent
+pkt 34 is sent
+pkt 35 is sent
+pkt 36 is sent
+pkt 37 is sent
+pkt 38 is sent
+pkt 39 is sent
+pkt 40 is sent
+pkt 41 is sent
+pkt 42 is sent
+pkt 43 is sent
+pkt 44 is sent
+pkt 45 is sent
+pkt 46 is sent
+pkt 47 is sent
+pkt 48 is sent
+pkt 49 is sent
+ack 11 received
+increase  window size  from  56 TO 57
+pkt is acked...move the window
+base  pkt  is = 12
+ack 12 received
+increase  window size  from  57 TO 58
+pkt is acked...move the window
+base  pkt  is = 13
+ack 13 received
+increase  window size  from  58 TO 59
+pkt is acked...move the window
+base  pkt  is = 14
+pkt 50 is sent
+pkt 51 is sent
+pkt 52 is sent
+pkt 53 is sent
+pkt 54 is sent
+pkt 55 is sent
+pkt 56 is sent
+pkt 57 is sent
+pkt 58 is sent
+pkt 59 is sent
+pkt 60 is sent
+pkt 61 is sent
+pkt 62 is sent
+pkt 63 is sent
+pkt 64 is sent
+pkt 65 is sent
+pkt 66 is sent
+pkt 67 is sent
+pkt 68 is sent
+pkt 69 is sent
+pkt 70 is sent
+pkt 71 is sent
+pkt 72 is sent
+ack 14 received
+increase  window size  from  59 TO 60
+pkt is acked...move the window
+base  pkt  is = 15
+ack 15 received
+increase  window size  from  60 TO 61
+pkt is acked...move the window
+base  pkt  is = 16
+ack 16 received
+increase  window size  from  61 TO 62
+pkt is acked...move the window
+base  pkt  is = 17
+ack 17 received
+increase  window size  from  62 TO 63
+pkt is acked...move the window
+base  pkt  is = 18
+ack 18 received
+increase  window size  from  63 TO 64
+pkt is acked...move the window
+base  pkt  is = 19
+ack 19 received
+increase  window size  from  64 TO 65
+pkt is acked...move the window
+base  pkt  is = 20
+ack 20 received
+increase  window size  from  65 TO 66
+pkt is acked...move the window
+base  pkt  is = 21
+ack 21 received
+increase  window size  from  66 TO 67
+pkt is acked...move the window
+base  pkt  is = 22
+ack 22 received
+increase  window size  from  67 TO 68
+pkt is acked...move the window
+base  pkt  is = 23
+ack 23 received
+increase  window size  from  68 TO 69
+pkt is acked...move the window
+base  pkt  is = 24
+ack 24 received
+increase  window size  from  69 TO 70
+pkt is acked...move the window
+base  pkt  is = 25
+ack 25 received
+increase  window size  from  70 TO 71
+pkt is acked...move the window
+base  pkt  is = 26
+ack 26 received
+increase  window size  from  71 TO 72
+pkt is acked...move the window
+base  pkt  is = 27
+ack 27 received
+increase  window size  from  72 TO 73
+pkt is acked...move the window
+base  pkt  is = 28
+ack 28 received
+increase  window size  from  73 TO 74
+pkt is acked...move the window
+base  pkt  is = 29
+ack 29 received
+increase  window size  from  74 TO 75
+pkt is acked...move the window
+base  pkt  is = 30
+ack 30 received
+increase  window size  from  75 TO 76
+pkt is acked...move the window
+base  pkt  is = 31
+pkt 73 is sent
+pkt 74 is sent
+pkt 75 is sent
+pkt 76 is sent
+pkt 77 is sent
+pkt 78 is sent
+pkt 79 is sent
+pkt 80 is sent
+pkt 81 is sent
+pkt 82 is sent
+pkt 83 is sent
+pkt 84 is sent
+pkt 85 is sent
+pkt 86 is sent
+pkt 87 is sent
+pkt 88 is sent
+pkt 89 is sent
+there is a pkt loss 
+
+pkt :90 is lost 
+
+pkt 90 is sent
+ack 31 received
+increase  window size  from  1 TO 2
+pkt is acked...move the window
+base  pkt  is = 32
+ack 32 received
+increase  window size  from  2 TO 4
+pkt is acked...move the window
+base  pkt  is = 33
+ack 33 received
+increase  window size  from  4 TO 8
+pkt is acked...move the window
+base  pkt  is = 34
+ack 34 received
+increase  window size  from  8 TO 16
+pkt is acked...move the window
+base  pkt  is = 35
+ack 35 received
+increase  window size  from  16 TO 32
+pkt is acked...move the window
+base  pkt  is = 36
+ack 36 received
+increase window size  from  0 TO 38
+pkt is acked...move the window
+base  pkt  is = 37
+ack 37 received
+increase  window size  from  38 TO 39
+pkt is acked...move the window
+base  pkt  is = 38
+ack 38 received
+increase  window size  from  39 TO 40
+pkt is acked...move the window
+base  pkt  is = 39
+ack 39 received
+increase  window size  from  40 TO 41
+pkt is acked...move the window
+base  pkt  is = 40
+ack 40 received
+increase  window size  from  41 TO 42
+pkt is acked...move the window
+base  pkt  is = 41
+ack 41 received
+increase  window size  from  42 TO 43
+pkt is acked...move the window
+base  pkt  is = 42
+ack 42 received
+increase  window size  from  43 TO 44
+pkt is acked...move the window
+base  pkt  is = 43
+ack 43 received
+increase  window size  from  44 TO 45
+pkt is acked...move the window
+base  pkt  is = 44
+ack 44 received
+increase  window size  from  45 TO 46
+pkt is acked...move the window
+base  pkt  is = 45
+ack 45 received
+increase  window size  from  46 TO 47
+pkt is acked...move the window
+base  pkt  is = 46
+pkt 91 is sent
+pkt 92 is sent
+ack 46 received
+increase  window size  from  47 TO 48
+pkt is acked...move the window
+base  pkt  is = 47
+ack 47 received
+increase  window size  from  48 TO 49
+pkt is acked...move the window
+base  pkt  is = 48
+ack 48 received
+increase  window size  from  49 TO 50
+pkt is acked...move the window
+base  pkt  is = 49
+ack 49 received
+increase  window size  from  50 TO 51
+pkt is acked...move the window
+base  pkt  is = 50
+ack 50 received
+increase  window size  from  51 TO 52
+pkt is acked...move the window
+base  pkt  is = 51
+ack 51 received
+increase  window size  from  52 TO 53
+pkt is acked...move the window
+base  pkt  is = 52
+ack 52 received
+increase  window size  from  53 TO 54
+pkt is acked...move the window
+base  pkt  is = 53
+ack 53 received
+increase  window size  from  54 TO 55
+pkt is acked...move the window
+base  pkt  is = 54
+ack 54 received
+increase  window size  from  55 TO 56
+pkt is acked...move the window
+base  pkt  is = 55
+ack 55 received
+increase  window size  from  56 TO 57
+pkt is acked...move the window
+base  pkt  is = 56
+ack 56 received
+increase  window size  from  57 TO 58
+pkt is acked...move the window
+base  pkt  is = 57
+ack 57 received
+increase  window size  from  58 TO 59
+pkt is acked...move the window
+base  pkt  is = 58
+ack 58 received
+increase  window size  from  59 TO 60
+pkt is acked...move the window
+base  pkt  is = 59
+ack 59 received
+increase  window size  from  60 TO 61
+pkt is acked...move the window
+base  pkt  is = 60
+ack 60 received
+increase  window size  from  61 TO 62
+pkt is acked...move the window
+base  pkt  is = 61
+ack 61 received
+increase  window size  from  62 TO 63
+pkt is acked...move the window
+base  pkt  is = 62
+ack 62 received
+increase  window size  from  63 TO 64
+pkt is acked...move the window
+base  pkt  is = 63
+ack 63 received
+increase  window size  from  64 TO 65
+pkt is acked...move the window
+base  pkt  is = 64
+ack 64 received
+increase  window size  from  65 TO 66
+pkt is acked...move the window
+base  pkt  is = 65
+ack 65 received
+increase  window size  from  66 TO 67
+pkt is acked...move the window
+base  pkt  is = 66
+ack 66 received
+increase  window size  from  67 TO 68
+pkt is acked...move the window
+base  pkt  is = 67
+ack 67 received
+increase  window size  from  68 TO 69
+pkt is acked...move the window
+base  pkt  is = 68
+ack 68 received
+increase  window size  from  69 TO 70
+pkt is acked...move the window
+base  pkt  is = 69
+ack 69 received
+increase  window size  from  70 TO 71
+pkt is acked...move the window
+base  pkt  is = 70
+ack 70 received
+increase  window size  from  71 TO 72
+pkt is acked...move the window
+base  pkt  is = 71
+ack 71 received
+increase  window size  from  72 TO 73
+pkt is acked...move the window
+base  pkt  is = 72
+ack 72 received
+increase  window size  from  73 TO 74
+pkt is acked...move the window
+base  pkt  is = 73
+ack 73 received
+increase  window size  from  74 TO 75
+pkt is acked...move the window
+base  pkt  is = 74
+ack 74 received
+increase  window size  from  75 TO 76
+pkt is acked...move the window
+base  pkt  is = 75
+ack 75 received
+increase  window size  from  76 TO 77
+pkt is acked...move the window
+base  pkt  is = 76
+ack 76 received
+increase  window size  from  77 TO 78
+pkt is acked...move the window
+base  pkt  is = 77
+ack 77 received
+increase  window size  from  78 TO 79
+pkt is acked...move the window
+base  pkt  is = 78
+ack 78 received
+increase  window size  from  79 TO 80
+pkt is acked...move the window
+base  pkt  is = 79
+ack 79 received
+increase  window size  from  80 TO 81
+pkt is acked...move the window
+base  pkt  is = 80
+ack 80 received
+increase  window size  from  81 TO 82
+pkt is acked...move the window
+base  pkt  is = 81
+ack 81 received
+increase  window size  from  82 TO 83
+pkt is acked...move the window
+base  pkt  is = 82
+ack 82 received
+increase  window size  from  83 TO 84
+pkt is acked...move the window
+base  pkt  is = 83
+ack 83 received
+increase  window size  from  84 TO 85
+pkt is acked...move the window
+base  pkt  is = 84
+ack 84 received
+increase  window size  from  85 TO 86
+pkt is acked...move the window
+base  pkt  is = 85
+ack 85 received
+increase  window size  from  86 TO 87
+pkt is acked...move the window
+base  pkt  is = 86
+ack 86 received
+increase  window size  from  87 TO 88
+pkt is acked...move the window
+base  pkt  is = 87
+ack 87 received
+increase  window size  from  88 TO 89
+pkt is acked...move the window
+base  pkt  is = 88
+ack 88 received
+increase  window size  from  89 TO 90
+pkt is acked...move the window
+base  pkt  is = 89
+ack 89 received
+increase  window size  from  90 TO 91
+pkt is acked...move the window
+base  pkt  is = 90
+pkt 93 is sent
+pkt 94 is sent
+pkt 95 is sent
+pkt 96 is sent
+pkt 97 is sent
+pkt 98 is sent
+pkt 99 is sent
+pkt 100 is sent
+pkt 101 is sent
+pkt 102 is sent
+pkt 103 is sent
+pkt 104 is sent
+pkt 105 is sent
+pkt 106 is sent
+pkt 107 is sent
+pkt 108 is sent
+pkt 109 is sent
+pkt 110 is sent
+pkt 111 is sent
+pkt 112 is sent
+pkt 113 is sent
+pkt 114 is sent
+pkt 115 is sent
+pkt 116 is sent
+pkt 117 is sent
+pkt 118 is sent
+pkt 119 is sent
+pkt 120 is sent
+pkt 121 is sent
+pkt 122 is sent
+pkt 123 is sent
+pkt 124 is sent
+pkt 125 is sent
+pkt 126 is sent
+pkt 127 is sent
+pkt 128 is sent
+pkt 129 is sent
+pkt 130 is sent
+pkt 131 is sent
+pkt 132 is sent
+pkt 133 is sent
+pkt 134 is sent
+pkt 135 is sent
+pkt 136 is sent
+pkt 137 is sent
+pkt 138 is sent
+pkt 139 is sent
+pkt 140 is sent
+pkt 141 is sent
+pkt 142 is sent
+pkt 143 is sent
+pkt 144 is sent
+pkt 145 is sent
+pkt 146 is sent
+pkt 147 is sent
+pkt 148 is sent
+pkt 149 is sent
+pkt 150 is sent
+pkt 151 is sent
+pkt 152 is sent
+pkt 153 is sent
+pkt 154 is sent
+pkt 155 is sent
+pkt 156 is sent
+pkt 157 is sent
+pkt 158 is sent
+pkt 159 is sent
+pkt 160 is sent
+pkt 161 is sent
+pkt 162 is sent
+pkt 163 is sent
+pkt 164 is sent
+pkt 165 is sent
+pkt 166 is sent
+pkt 167 is sent
+pkt 168 is sent
+pkt 169 is sent
+pkt 170 is sent
+pkt 171 is sent
+pkt 172 is sent
+pkt 173 is sent
+pkt 174 is sent
+pkt 175 is sent
+pkt 176 is sent
+pkt 177 is sent
+pkt 178 is sent
+pkt 179 is sent
+pkt 180 is sent
+TIME OUT
+Resend pkt  = 90
+ack 90 received
+increase  window size  from  91 TO 92
+pkt is acked...move the window
+base  pkt  is = 91
+there is a pkt loss 
+
+pkt :181 is lost 
+
+pkt 181 is sent
+TIME OUT
+Resend pkt  = 91
+TIME OUT
+Resend pkt  = 92
+TIME OUT
+Resend pkt  = 93
+TIME OUT
+Resend pkt  = 94
+TIME OUT
+Resend pkt  = 95
+ack 91 received
+increase  window size  from  1 TO 2
+pkt is acked...move the window
+base  pkt  is = 92
+ack 92 received
+increase  window size  from  2 TO 4
+pkt is acked...move the window
+base  pkt  is = 93
+ack 93 received
+increase  window size  from  4 TO 8
+pkt is acked...move the window
+base  pkt  is = 94
+ack 94 received
+increase  window size  from  8 TO 16
+pkt is acked...move the window
+base  pkt  is = 95
+ack 95 received
+increase  window size  from  16 TO 32
+pkt is acked...move the window
+base  pkt  is = 96
+TIME OUT
+Resend pkt  = 96
+TIME OUT
+Resend pkt  = 97
+TIME OUT
+Resend pkt  = 98
+TIME OUT
+Resend pkt  = 99
+TIME OUT
+Resend pkt  = 100
+TIME OUT
+Resend pkt  = 101
+TIME OUT
+Resend pkt  = 102
+TIME OUT
+Resend pkt  = 103
+TIME OUT
+Resend pkt  = 104
+TIME OUT
+Resend pkt  = 105
+TIME OUT
+Resend pkt  = 106
+TIME OUT
+Resend pkt  = 107
+TIME OUT
+Resend pkt  = 108
+TIME OUT
+Resend pkt  = 109
+TIME OUT
+Resend pkt  = 110
+TIME OUT
+Resend pkt  = 111
+TIME OUT
+Resend pkt  = 112
+TIME OUT
+Resend pkt  = 113
+TIME OUT
+Resend pkt  = 114
+TIME OUT
+Resend pkt  = 115
+TIME OUT
+Resend pkt  = 116
+TIME OUT
+Resend pkt  = 117
+TIME OUT
+Resend pkt  = 118
+TIME OUT
+Resend pkt  = 119
+TIME OUT
+Resend pkt  = 120
+TIME OUT
+Resend pkt  = 121
+TIME OUT
+Resend pkt  = 122
+TIME OUT
+Resend pkt  = 123
+TIME OUT
+Resend pkt  = 124
+TIME OUT
+Resend pkt  = 125
+TIME OUT
+Resend pkt  = 126
+TIME OUT
+Resend pkt  = 127
+TIME OUT
+Resend pkt  = 128
+TIME OUT
+Resend pkt  = 129
+TIME OUT
+Resend pkt  = 130
+TIME OUT
+Resend pkt  = 131
+TIME OUT
+Resend pkt  = 132
+TIME OUT
+Resend pkt  = 133
+TIME OUT
+Resend pkt  = 134
+TIME OUT
+Resend pkt  = 135
+TIME OUT
+Resend pkt  = 136
+TIME OUT
+Resend pkt  = 137
+TIME OUT
+Resend pkt  = 138
+TIME OUT
+Resend pkt  = 139
+TIME OUT
+Resend pkt  = 140
+TIME OUT
+Resend pkt  = 141
+TIME OUT
+Resend pkt  = 142
+TIME OUT
+Resend pkt  = 143
+TIME OUT
+Resend pkt  = 144
+TIME OUT
+Resend pkt  = 145
+TIME OUT
+Resend pkt  = 146
+TIME OUT
+Resend pkt  = 147
+TIME OUT
+Resend pkt  = 148
+TIME OUT
+Resend pkt  = 149
+TIME OUT
+Resend pkt  = 150
+TIME OUT
+Resend pkt  = 151
+TIME OUT
+Resend pkt  = 152
+TIME OUT
+Resend pkt  = 153
+TIME OUT
+Resend pkt  = 154
+TIME OUT
+Resend pkt  = 155
+TIME OUT
+Resend pkt  = 156
+TIME OUT
+Resend pkt  = 157
+TIME OUT
+Resend pkt  = 158
+TIME OUT
+Resend pkt  = 159
+TIME OUT
+Resend pkt  = 160
+TIME OUT
+Resend pkt  = 161
+TIME OUT
+Resend pkt  = 162
+TIME OUT
+Resend pkt  = 163
+TIME OUT
+Resend pkt  = 164
+TIME OUT
+Resend pkt  = 165
+TIME OUT
+Resend pkt  = 166
+TIME OUT
+Resend pkt  = 167
+TIME OUT
+Resend pkt  = 168
+TIME OUT
+Resend pkt  = 169
+TIME OUT
+Resend pkt  = 170
+TIME OUT
+Resend pkt  = 171
+TIME OUT
+Resend pkt  = 172
+TIME OUT
+Resend pkt  = 173
+TIME OUT
+Resend pkt  = 174
+TIME OUT
+Resend pkt  = 175
+TIME OUT
+Resend pkt  = 176
+TIME OUT
+Resend pkt  = 177
+TIME OUT
+Resend pkt  = 178
+TIME OUT
+Resend pkt  = 179
+TIME OUT
+Resend pkt  = 180
+ack 96 received
+increase window size  from  0 TO 46
+pkt is acked...move the window
+base  pkt  is = 97
+ack 97 received
+increase  window size  from  46 TO 47
+pkt is acked...move the window
+base  pkt  is = 98
+ack 98 received
+increase  window size  from  47 TO 48
+pkt is acked...move the window
+base  pkt  is = 99
+ack 99 received
+increase  window size  from  48 TO 49
+pkt is acked...move the window
+base  pkt  is = 100
+ack 100 received
+increase  window size  from  49 TO 50
+pkt is acked...move the window
+base  pkt  is = 101
+ack 101 received
+increase  window size  from  50 TO 51
+pkt is acked...move the window
+base  pkt  is = 102
+ack 102 received
+increase  window size  from  51 TO 52
+pkt is acked...move the window
+base  pkt  is = 103
+ack 103 received
+increase  window size  from  52 TO 53
+pkt is acked...move the window
+base  pkt  is = 104
+ack 104 received
+increase  window size  from  53 TO 54
+pkt is acked...move the window
+base  pkt  is = 105
+ack 105 received
+increase  window size  from  54 TO 55
+pkt is acked...move the window
+base  pkt  is = 106
+ack 106 received
+increase  window size  from  55 TO 56
+pkt is acked...move the window
+base  pkt  is = 107
+ack 107 received
+increase  window size  from  56 TO 57
+pkt is acked...move the window
+base  pkt  is = 108
+ack 108 received
+increase  window size  from  57 TO 58
+pkt is acked...move the window
+base  pkt  is = 109
+ack 109 received
+increase  window size  from  58 TO 59
+pkt is acked...move the window
+base  pkt  is = 110
+ack 110 received
+increase  window size  from  59 TO 60
+pkt is acked...move the window
+base  pkt  is = 111
+ack 111 received
+increase  window size  from  60 TO 61
+pkt is acked...move the window
+base  pkt  is = 112
+ack 112 received
+increase  window size  from  61 TO 62
+pkt is acked...move the window
+base  pkt  is = 113
+ack 113 received
+increase  window size  from  62 TO 63
+pkt is acked...move the window
+base  pkt  is = 114
+ack 114 received
+increase  window size  from  63 TO 64
+pkt is acked...move the window
+base  pkt  is = 115
+ack 115 received
+increase  window size  from  64 TO 65
+pkt is acked...move the window
+base  pkt  is = 116
+ack 116 received
+increase  window size  from  65 TO 66
+pkt is acked...move the window
+base  pkt  is = 117
+pkt 182 is sent
+ack 117 received
+increase  window size  from  66 TO 67
+pkt is acked...move the window
+base  pkt  is = 118
+pkt 183 is sent
+pkt 184 is sent
+ack 118 received
+increase  window size  from  67 TO 68
+pkt is acked...move the window
+base  pkt  is = 119
+ack 119 received
+increase  window size  from  68 TO 69
+pkt is acked...move the window
+base  pkt  is = 120
+ack 120 received
+increase  window size  from  69 TO 70
+pkt is acked...move the window
+base  pkt  is = 121
+ack 121 received
+increase  window size  from  70 TO 71
+pkt is acked...move the window
+base  pkt  is = 122
+pkt 185 is sent
+pkt 186 is sent
+pkt 187 is sent
+pkt 188 is sent
+pkt 189 is sent
+pkt 190 is sent
+pkt 191 is sent
+pkt 192 is sent
+ack 122 received
+increase  window size  from  71 TO 72
+pkt is acked...move the window
+base  pkt  is = 123
+pkt 193 is sent
+pkt 194 is sent
+ack 123 received
+increase  window size  from  72 TO 73
+pkt is acked...move the window
+base  pkt  is = 124
+pkt 195 is sent
+pkt 196 is sent
+ack 124 received
+increase  window size  from  73 TO 74
+pkt is acked...move the window
+base  pkt  is = 125
+pkt 197 is sent
+pkt 198 is sent
+ack 125 received
+increase  window size  from  74 TO 75
+pkt is acked...move the window
+base  pkt  is = 126
+pkt 199 is sent
+pkt 200 is sent
+ack 126 received
+increase  window size  from  75 TO 76
+pkt is acked...move the window
+base  pkt  is = 127
+pkt 201 is sent
+pkt 202 is sent
+ack 127 received
+increase  window size  from  76 TO 77
+pkt is acked...move the window
+base  pkt  is = 128
+pkt 203 is sent
+pkt 204 is sent
+ack 128 received
+increase  window size  from  77 TO 78
+pkt is acked...move the window
+base  pkt  is = 129
+pkt 205 is sent
+pkt 206 is sent
+ack 129 received
+increase  window size  from  78 TO 79
+pkt is acked...move the window
+base  pkt  is = 130
+pkt 207 is sent
+pkt 208 is sent
+ack 130 received
+increase  window size  from  79 TO 80
+pkt is acked...move the window
+base  pkt  is = 131
+pkt 209 is sent
+pkt 210 is sent
+ack 131 received
+increase  window size  from  80 TO 81
+pkt is acked...move the window
+base  pkt  is = 132
+pkt 211 is sent
+pkt 212 is sent
+ack 132 received
+increase  window size  from  81 TO 82
+pkt is acked...move the window
+base  pkt  is = 133
+pkt 213 is sent
+pkt 214 is sent
+ack 133 received
+increase  window size  from  82 TO 83
+pkt is acked...move the window
+base  pkt  is = 134
+pkt 215 is sent
+pkt 216 is sent
+ack 134 received
+increase  window size  from  83 TO 84
+pkt is acked...move the window
+base  pkt  is = 135
+pkt 217 is sent
+pkt 218 is sent
+ack 135 received
+increase  window size  from  84 TO 85
+pkt is acked...move the window
+base  pkt  is = 136
+ack 136 received
+increase  window size  from  85 TO 86
+pkt is acked...move the window
+base  pkt  is = 137
+ack 137 received
+increase  window size  from  86 TO 87
+pkt is acked...move the window
+base  pkt  is = 138
+pkt 219 is sent
+pkt 220 is sent
+pkt 221 is sent
+pkt 222 is sent
+pkt 223 is sent
+pkt 224 is sent
+ack 138 received
+increase  window size  from  87 TO 88
+pkt is acked...move the window
+base  pkt  is = 139
+ack 139 received
+increase  window size  from  88 TO 89
+pkt is acked...move the window
+base  pkt  is = 140
+pkt 225 is sent
+pkt 226 is sent
+pkt 227 is sent
+pkt 228 is sent
+ack 140 received
+increase  window size  from  89 TO 90
+pkt is acked...move the window
+base  pkt  is = 141
+ack 141 received
+increase  window size  from  90 TO 91
+pkt is acked...move the window
+base  pkt  is = 142
+ack 142 received
+increase  window size  from  91 TO 92
+pkt is acked...move the window
+base  pkt  is = 143
+pkt 229 is sent
+pkt 230 is sent
+pkt 231 is sent
+pkt 232 is sent
+pkt 233 is sent
+pkt 234 is sent
+ack 143 received
+increase  window size  from  92 TO 93
+pkt is acked...move the window
+base  pkt  is = 144
+ack 144 received
+increase  window size  from  93 TO 94
+pkt is acked...move the window
+base  pkt  is = 145
+pkt 235 is sent
+pkt 236 is sent
+pkt 237 is sent
+pkt 238 is sent
+ack 145 received
+increase  window size  from  94 TO 95
+pkt is acked...move the window
+base  pkt  is = 146
+pkt 239 is sent
+pkt 240 is sent
+ack 146 received
+increase  window size  from  95 TO 96
+pkt is acked...move the window
+base  pkt  is = 147
+ack 147 received
+increase  window size  from  96 TO 97
+pkt is acked...move the window
+base  pkt  is = 148
+ack 148 received
+increase  window size  from  97 TO 98
+pkt is acked...move the window
+base  pkt  is = 149
+ack 149 received
+increase  window size  from  98 TO 99
+pkt is acked...move the window
+base  pkt  is = 150
+ack 150 received
+increase  window size  from  99 TO 100
+pkt is acked...move the window
+base  pkt  is = 151
+ack 151 received
+pkt is acked...move the window
+base  pkt  is = 152
+ack 152 received
+pkt is acked...move the window
+base  pkt  is = 153
+ack 153 received
+pkt is acked...move the window
+base  pkt  is = 154
+pkt 241 is sent
+pkt 242 is sent
+pkt 243 is sent
+pkt 244 is sent
+pkt 245 is sent
+pkt 246 is sent
+pkt 247 is sent
+pkt 248 is sent
+pkt 249 is sent
+pkt 250 is sent
+pkt 251 is sent
+pkt 252 is sent
+pkt 253 is sent
+ack 154 received
+pkt is acked...move the window
+base  pkt  is = 155
+ack 155 received
+pkt is acked...move the window
+base  pkt  is = 156
+pkt 254 is sent
+pkt 255 is sent
+ack 156 received
+pkt is acked...move the window
+base  pkt  is = 157
+pkt 256 is sent
+ack 157 received
+pkt is acked...move the window
+base  pkt  is = 158
+ack 158 received
+pkt is acked...move the window
+base  pkt  is = 159
+ack 159 received
+pkt is acked...move the window
+base  pkt  is = 160
+ack 160 received
+pkt is acked...move the window
+base  pkt  is = 161
+ack 161 received
+pkt is acked...move the window
+base  pkt  is = 162
+pkt 257 is sent
+pkt 258 is sent
+pkt 259 is sent
+pkt 260 is sent
+pkt 261 is sent
+ack 162 received
+pkt is acked...move the window
+base  pkt  is = 163
+pkt 262 is sent
+ack 163 received
+pkt is acked...move the window
+base  pkt  is = 164
+pkt 263 is sent
+ack 164 received
+pkt is acked...move the window
+base  pkt  is = 165
+pkt 264 is sent
+ack 165 received
+pkt is acked...move the window
+base  pkt  is = 166
+pkt 265 is sent
+ack 166 received
+pkt is acked...move the window
+base  pkt  is = 167
+pkt 266 is sent
+ack 167 received
+pkt is acked...move the window
+base  pkt  is = 168
+pkt 267 is sent
+ack 168 received
+pkt is acked...move the window
+base  pkt  is = 169
+pkt 268 is sent
+ack 169 received
+pkt is acked...move the window
+base  pkt  is = 170
+ack 170 received
+pkt is acked...move the window
+base  pkt  is = 171
+ack 171 received
+pkt is acked...move the window
+base  pkt  is = 172
+ack 172 received
+pkt is acked...move the window
+base  pkt  is = 173
+ack 173 received
+pkt is acked...move the window
+base  pkt  is = 174
+pkt 269 is sent
+pkt 270 is sent
+pkt 271 is sent
+there is a pkt loss 
+
+pkt :272 is lost 
+
+pkt 272 is sent
+ack 174 received
+increase  window size  from  1 TO 2
+pkt is acked...move the window
+base  pkt  is = 175
+ack 175 received
+increase  window size  from  2 TO 4
+pkt is acked...move the window
+base  pkt  is = 176
+ack 176 received
+increase  window size  from  4 TO 8
+pkt is acked...move the window
+base  pkt  is = 177
+ack 177 received
+increase  window size  from  8 TO 16
+pkt is acked...move the window
+base  pkt  is = 178
+ack 178 received
+increase  window size  from  16 TO 32
+pkt is acked...move the window
+base  pkt  is = 179
+ack 179 received
+increase window size  from  0 TO 50
+pkt is acked...move the window
+base  pkt  is = 180
+ack 180 received
+increase  window size  from  50 TO 51
+pkt is acked...move the window
+base  pkt  is = 181
+TIME OUT
+Resend pkt  = 181
+ack 181 received
+increase  window size  from  51 TO 52
+pkt is acked...move the window
+base  pkt  is = 182
+TIME OUT
+Resend pkt  = 182
+TIME OUT
+Resend pkt  = 183
+TIME OUT
+Resend pkt  = 184
+ack 182 received
+increase  window size  from  52 TO 53
+pkt is acked...move the window
+base  pkt  is = 183
+ack 183 received
+increase  window size  from  53 TO 54
+pkt is acked...move the window
+base  pkt  is = 184
+ack 184 received
+increase  window size  from  54 TO 55
+pkt is acked...move the window
+base  pkt  is = 185
+TIME OUT
+Resend pkt  = 185
+TIME OUT
+Resend pkt  = 186
+TIME OUT
+Resend pkt  = 187
+TIME OUT
+Resend pkt  = 188
+TIME OUT
+Resend pkt  = 189
+TIME OUT
+Resend pkt  = 190
+TIME OUT
+Resend pkt  = 191
+ack 185 received
+increase  window size  from  55 TO 56
+pkt is acked...move the window
+base  pkt  is = 186
+ack 186 received
+increase  window size  from  56 TO 57
+pkt is acked...move the window
+base  pkt  is = 187
+ack 187 received
+increase  window size  from  57 TO 58
+pkt is acked...move the window
+base  pkt  is = 188
+ack 188 received
+increase  window size  from  58 TO 59
+pkt is acked...move the window
+base  pkt  is = 189
+ack 189 received
+increase  window size  from  59 TO 60
+pkt is acked...move the window
+base  pkt  is = 190
+ack 190 received
+increase  window size  from  60 TO 61
+pkt is acked...move the window
+base  pkt  is = 191
+ack 191 received
+increase  window size  from  61 TO 62
+pkt is acked...move the window
+base  pkt  is = 192
+TIME OUT
+Resend pkt  = 192
+ack 192 received
+increase  window size  from  62 TO 63
+pkt is acked...move the window
+base  pkt  is = 193
+TIME OUT
+Resend pkt  = 193
+TIME OUT
+Resend pkt  = 194
+ack 193 received
+increase  window size  from  63 TO 64
+pkt is acked...move the window
+base  pkt  is = 194
+ack 194 received
+increase  window size  from  64 TO 65
+pkt is acked...move the window
+base  pkt  is = 195
+TIME OUT
+Resend pkt  = 195
+ack 195 received
+increase  window size  from  65 TO 66
+pkt is acked...move the window
+base  pkt  is = 196
+TIME OUT
+Resend pkt  = 196
+ack 196 received
+increase  window size  from  66 TO 67
+pkt is acked...move the window
+base  pkt  is = 197
+TIME OUT
+Resend pkt  = 197
+TIME OUT
+Resend pkt  = 198
+ack 197 received
+increase  window size  from  67 TO 68
+pkt is acked...move the window
+base  pkt  is = 198
+ack 198 received
+increase  window size  from  68 TO 69
+pkt is acked...move the window
+base  pkt  is = 199
+TIME OUT
+Resend pkt  = 199
+TIME OUT
+Resend pkt  = 200
+ack 199 received
+increase  window size  from  69 TO 70
+pkt is acked...move the window
+base  pkt  is = 200
+ack 200 received
+increase  window size  from  70 TO 71
+pkt is acked...move the window
+base  pkt  is = 201
+TIME OUT
+Resend pkt  = 201
+TIME OUT
+Resend pkt  = 202
+ack 201 received
+increase  window size  from  71 TO 72
+pkt is acked...move the window
+base  pkt  is = 202
+ack 202 received
+increase  window size  from  72 TO 73
+pkt is acked...move the window
+base  pkt  is = 203
+pkt 273 is sent
+pkt 274 is sent
+pkt 275 is sent
+TIME OUT
+Resend pkt  = 203
+TIME OUT
+Resend pkt  = 204
+TIME OUT
+Resend pkt  = 205
+TIME OUT
+Resend pkt  = 206
+ack 203 received
+increase  window size  from  73 TO 74
+pkt is acked...move the window
+base  pkt  is = 204
+ack 204 received
+increase  window size  from  74 TO 75
+pkt is acked...move the window
+base  pkt  is = 205
+ack 205 received
+increase  window size  from  75 TO 76
+pkt is acked...move the window
+base  pkt  is = 206
+ack 206 received
+increase  window size  from  76 TO 77
+pkt is acked...move the window
+base  pkt  is = 207
+pkt 276 is sent
+pkt 277 is sent
+pkt 278 is sent
+pkt 279 is sent
+pkt 280 is sent
+pkt 281 is sent
+pkt 282 is sent
+pkt 283 is sent
+TIME OUT
+Resend pkt  = 207
+TIME OUT
+Resend pkt  = 208
+ack 207 received
+increase  window size  from  77 TO 78
+pkt is acked...move the window
+base  pkt  is = 208
+ack 208 received
+increase  window size  from  78 TO 79
+pkt is acked...move the window
+base  pkt  is = 209
+pkt 284 is sent
+pkt 285 is sent
+pkt 286 is sent
+pkt 287 is sent
+TIME OUT
+Resend pkt  = 209
+TIME OUT
+Resend pkt  = 210
+ack 209 received
+increase  window size  from  79 TO 80
+pkt is acked...move the window
+base  pkt  is = 210
+ack 210 received
+increase  window size  from  80 TO 81
+pkt is acked...move the window
+base  pkt  is = 211
+pkt 288 is sent
+pkt 289 is sent
+pkt 290 is sent
+pkt 291 is sent
+TIME OUT
+Resend pkt  = 211
+TIME OUT
+Resend pkt  = 212
+TIME OUT
+Resend pkt  = 213
+TIME OUT
+Resend pkt  = 214
+TIME OUT
+Resend pkt  = 215
+TIME OUT
+Resend pkt  = 216
+TIME OUT
+Resend pkt  = 217
+TIME OUT
+Resend pkt  = 218
+TIME OUT
+Resend pkt  = 219
+TIME OUT
+Resend pkt  = 220
+TIME OUT
+Resend pkt  = 221
+TIME OUT
+Resend pkt  = 222
+TIME OUT
+Resend pkt  = 223
+TIME OUT
+Resend pkt  = 224
+TIME OUT
+Resend pkt  = 225
+TIME OUT
+Resend pkt  = 226
+TIME OUT
+Resend pkt  = 227
+TIME OUT
+Resend pkt  = 228
+TIME OUT
+Resend pkt  = 229
+TIME OUT
+Resend pkt  = 230
+TIME OUT
+Resend pkt  = 231
+TIME OUT
+Resend pkt  = 232
+TIME OUT
+Resend pkt  = 233
+TIME OUT
+Resend pkt  = 234
+ack 211 received
+increase  window size  from  81 TO 82
+pkt is acked...move the window
+base  pkt  is = 212
+TIME OUT
+Resend pkt  = 235
+TIME OUT
+Resend pkt  = 236
+TIME OUT
+Resend pkt  = 237
+TIME OUT
+Resend pkt  = 238
+TIME OUT
+Resend pkt  = 239
+TIME OUT
+Resend pkt  = 240
+ack 212 received
+increase  window size  from  82 TO 83
+pkt is acked...move the window
+base  pkt  is = 213
+ack 213 received
+increase  window size  from  83 TO 84
+pkt is acked...move the window
+base  pkt  is = 214
+ack 214 received
+increase  window size  from  84 TO 85
+pkt is acked...move the window
+base  pkt  is = 215
+ack 215 received
+increase  window size  from  85 TO 86
+pkt is acked...move the window
+base  pkt  is = 216
+ack 216 received
+increase  window size  from  86 TO 87
+pkt is acked...move the window
+base  pkt  is = 217
+ack 217 received
+increase  window size  from  87 TO 88
+pkt is acked...move the window
+base  pkt  is = 218
+ack 218 received
+increase  window size  from  88 TO 89
+pkt is acked...move the window
+base  pkt  is = 219
+ack 219 received
+increase  window size  from  89 TO 90
+pkt is acked...move the window
+base  pkt  is = 220
+ack 220 received
+increase  window size  from  90 TO 91
+pkt is acked...move the window
+base  pkt  is = 221
+ack 221 received
+increase  window size  from  91 TO 92
+pkt is acked...move the window
+base  pkt  is = 222
+ack 222 received
+increase  window size  from  92 TO 93
+pkt is acked...move the window
+base  pkt  is = 223
+ack 223 received
+increase  window size  from  93 TO 94
+pkt is acked...move the window
+base  pkt  is = 224
+ack 224 received
+increase  window size  from  94 TO 95
+pkt is acked...move the window
+base  pkt  is = 225
+ack 225 received
+increase  window size  from  95 TO 96
+pkt is acked...move the window
+base  pkt  is = 226
+ack 226 received
+increase  window size  from  96 TO 97
+pkt is acked...move the window
+base  pkt  is = 227
+ack 227 received
+increase  window size  from  97 TO 98
+pkt is acked...move the window
+base  pkt  is = 228
+ack 228 received
+increase  window size  from  98 TO 99
+pkt is acked...move the window
+base  pkt  is = 229
+ack 229 received
+increase  window size  from  99 TO 100
+pkt is acked...move the window
+base  pkt  is = 230
+ack 230 received
+pkt is acked...move the window
+base  pkt  is = 231
+ack 231 received
+pkt is acked...move the window
+base  pkt  is = 232
+ack 232 received
+pkt is acked...move the window
+base  pkt  is = 233
+ack 233 received
+pkt is acked...move the window
+base  pkt  is = 234
+ack 234 received
+pkt is acked...move the window
+base  pkt  is = 235
+ack 235 received
+pkt is acked...move the window
+base  pkt  is = 236
+ack 236 received
+pkt is acked...move the window
+base  pkt  is = 237
+ack 237 received
+pkt is acked...move the window
+base  pkt  is = 238
+ack 238 received
+pkt is acked...move the window
+base  pkt  is = 239
+ack 239 received
+pkt is acked...move the window
+base  pkt  is = 240
+ack 240 received
+pkt is acked...move the window
+base  pkt  is = 241
+pkt 292 is sent
+pkt 293 is sent
+pkt 294 is sent
+pkt 295 is sent
+pkt 296 is sent
+pkt 297 is sent
+pkt 298 is sent
+pkt 299 is sent
+pkt 300 is sent
+pkt 301 is sent
+pkt 302 is sent
+pkt 303 is sent
+pkt 304 is sent
+pkt 305 is sent
+pkt 306 is sent
+pkt 307 is sent
+pkt 308 is sent
+pkt 309 is sent
+pkt 310 is sent
+pkt 311 is sent
+pkt 312 is sent
+pkt 313 is sent
+pkt 314 is sent
+pkt 315 is sent
+pkt 316 is sent
+pkt 317 is sent
+pkt 318 is sent
+pkt 319 is sent
+pkt 320 is sent
+pkt 321 is sent
+pkt 322 is sent
+pkt 323 is sent
+pkt 324 is sent
+pkt 325 is sent
+pkt 326 is sent
+pkt 327 is sent
+pkt 328 is sent
+pkt 329 is sent
+pkt 330 is sent
+pkt 331 is sent
+pkt 332 is sent
+pkt 333 is sent
+pkt 334 is sent
+pkt 335 is sent
+pkt 336 is sent
+pkt 337 is sent
+pkt 338 is sent
+pkt 339 is sent
+pkt 340 is sent
+TIME OUT
+Resend pkt  = 241
+TIME OUT
+Resend pkt  = 242
+TIME OUT
+Resend pkt  = 243
+TIME OUT
+Resend pkt  = 244
+TIME OUT
+Resend pkt  = 245
+TIME OUT
+Resend pkt  = 246
+TIME OUT
+Resend pkt  = 247
+TIME OUT
+Resend pkt  = 248
+TIME OUT
+Resend pkt  = 249
+TIME OUT
+Resend pkt  = 250
+TIME OUT
+Resend pkt  = 251
+TIME OUT
+Resend pkt  = 252
+TIME OUT
+Resend pkt  = 253
+ack 241 received
+pkt is acked...move the window
+base  pkt  is = 242
+ack 242 received
+pkt is acked...move the window
+base  pkt  is = 243
+ack 243 received
+pkt is acked...move the window
+base  pkt  is = 244
+ack 244 received
+pkt is acked...move the window
+base  pkt  is = 245
+ack 245 received
+pkt is acked...move the window
+base  pkt  is = 246
+ack 246 received
+pkt is acked...move the window
+base  pkt  is = 247
+ack 247 received
+pkt is acked...move the window
+base  pkt  is = 248
+ack 248 received
+pkt is acked...move the window
+base  pkt  is = 249
+ack 249 received
+pkt is acked...move the window
+base  pkt  is = 250
+ack 250 received
+pkt is acked...move the window
+base  pkt  is = 251
+ack 251 received
+pkt is acked...move the window
+base  pkt  is = 252
+ack 252 received
+pkt is acked...move the window
+base  pkt  is = 253
+ack 253 received
+pkt is acked...move the window
+base  pkt  is = 254
+TIME OUT
+Resend pkt  = 254
+TIME OUT
+Resend pkt  = 255
+ack 254 received
+pkt is acked...move the window
+base  pkt  is = 255
+ack 255 received
+pkt is acked...move the window
+base  pkt  is = 256
+pkt 341 is sent
+pkt 342 is sent
+TIME OUT
+Resend pkt  = 256
+ack 256 received
+pkt is acked...move the window
+base  pkt  is = 257
+pkt 343 is sent
+pkt 344 is sent
+pkt 345 is sent
+pkt 346 is sent
+pkt 347 is sent
+pkt 348 is sent
+pkt 349 is sent
+pkt 350 is sent
+pkt 351 is sent
+pkt 352 is sent
+pkt 353 is sent
+pkt 354 is sent
+pkt 355 is sent
+pkt 356 is sent
+TIME OUT
+Resend pkt  = 257
+TIME OUT
+Resend pkt  = 258
+TIME OUT
+Resend pkt  = 259
+TIME OUT
+Resend pkt  = 260
+TIME OUT
+Resend pkt  = 261
+TIME OUT
+Resend pkt  = 262
+ack 257 received
+pkt is acked...move the window
+base  pkt  is = 258
+ack 258 received
+pkt is acked...move the window
+base  pkt  is = 259
+ack 259 received
+pkt is acked...move the window
+base  pkt  is = 260
+ack 260 received
+pkt is acked...move the window
+base  pkt  is = 261
+ack 261 received
+pkt is acked...move the window
+base  pkt  is = 262
+pkt 357 is sent
+pkt 358 is sent
+pkt 359 is sent
+pkt 360 is sent
+pkt 361 is sent
+ack 262 received
+pkt is acked...move the window
+base  pkt  is = 263
+TIME OUT
+Resend pkt  = 263
+TIME OUT
+Resend pkt  = 264
+TIME OUT
+Resend pkt  = 265
+TIME OUT
+Resend pkt  = 266
+pkt 362 is sent
+ack 263 received
+pkt is acked...move the window
+base  pkt  is = 264
+there is a pkt loss 
+
+pkt :363 is lost 
+
+pkt 363 is sent
+ack 264 received
+increase  window size  from  1 TO 2
+pkt is acked...move the window
+base  pkt  is = 265
+ack 265 received
+increase  window size  from  2 TO 4
+pkt is acked...move the window
+base  pkt  is = 266
+ack 266 received
+increase  window size  from  4 TO 8
+pkt is acked...move the window
+base  pkt  is = 267
+TIME OUT
+Resend pkt  = 267
+ack 267 received
+increase  window size  from  8 TO 16
+pkt is acked...move the window
+base  pkt  is = 268
+TIME OUT
+Resend pkt  = 268
+ack 268 received
+increase  window size  from  16 TO 32
+pkt is acked...move the window
+base  pkt  is = 269
+TIME OUT
+Resend pkt  = 269
+TIME OUT
+Resend pkt  = 270
+TIME OUT
+Resend pkt  = 271
+TIME OUT
+Resend pkt  = 272
+ack 269 received
+increase window size  from  0 TO 50
+pkt is acked...move the window
+base  pkt  is = 270
+ack 270 received
+increase  window size  from  50 TO 51
+pkt is acked...move the window
+base  pkt  is = 271
+ack 271 received
+increase  window size  from  51 TO 52
+pkt is acked...move the window
+base  pkt  is = 272
+ack 272 received
+increase  window size  from  52 TO 53
+pkt is acked...move the window
+base  pkt  is = 273
+TIME OUT
+Resend pkt  = 273
+TIME OUT
+Resend pkt  = 274
+TIME OUT
+Resend pkt  = 275
+ack 273 received
+increase  window size  from  53 TO 54
+pkt is acked...move the window
+base  pkt  is = 274
+ack 274 received
+increase  window size  from  54 TO 55
+pkt is acked...move the window
+base  pkt  is = 275
+ack 275 received
+increase  window size  from  55 TO 56
+pkt is acked...move the window
+base  pkt  is = 276
+TIME OUT
+Resend pkt  = 276
+TIME OUT
+Resend pkt  = 277
+TIME OUT
+Resend pkt  = 278
+TIME OUT
+Resend pkt  = 279
+TIME OUT
+Resend pkt  = 280
+TIME OUT
+Resend pkt  = 281
+TIME OUT
+Resend pkt  = 282
+TIME OUT
+Resend pkt  = 283
+ack 276 received
+increase  window size  from  56 TO 57
+pkt is acked...move the window
+base  pkt  is = 277
+ack 277 received
+increase  window size  from  57 TO 58
+pkt is acked...move the window
+base  pkt  is = 278
+ack 278 received
+increase  window size  from  58 TO 59
+pkt is acked...move the window
+base  pkt  is = 279
+ack 279 received
+increase  window size  from  59 TO 60
+pkt is acked...move the window
+base  pkt  is = 280
+ack 280 received
+increase  window size  from  60 TO 61
+pkt is acked...move the window
+base  pkt  is = 281
+ack 281 received
+increase  window size  from  61 TO 62
+pkt is acked...move the window
+base  pkt  is = 282
+ack 282 received
+increase  window size  from  62 TO 63
+pkt is acked...move the window
+base  pkt  is = 283
+ack 283 received
+increase  window size  from  63 TO 64
+pkt is acked...move the window
+base  pkt  is = 284
+TIME OUT
+Resend pkt  = 284
+TIME OUT
+Resend pkt  = 285
+TIME OUT
+Resend pkt  = 286
+TIME OUT
+Resend pkt  = 287
+ack 284 received
+increase  window size  from  64 TO 65
+pkt is acked...move the window
+base  pkt  is = 285
+ack 285 received
+increase  window size  from  65 TO 66
+pkt is acked...move the window
+base  pkt  is = 286
+ack 286 received
+increase  window size  from  66 TO 67
+pkt is acked...move the window
+base  pkt  is = 287
+ack 287 received
+increase  window size  from  67 TO 68
+pkt is acked...move the window
+base  pkt  is = 288
+TIME OUT
+Resend pkt  = 288
+TIME OUT
+Resend pkt  = 289
+TIME OUT
+Resend pkt  = 290
+TIME OUT
+Resend pkt  = 291
+ack 288 received
+increase  window size  from  68 TO 69
+pkt is acked...move the window
+base  pkt  is = 289
+ack 289 received
+increase  window size  from  69 TO 70
+pkt is acked...move the window
+base  pkt  is = 290
+ack 290 received
+increase  window size  from  70 TO 71
+pkt is acked...move the window
+base  pkt  is = 291
+ack 291 received
+increase  window size  from  71 TO 72
+pkt is acked...move the window
+base  pkt  is = 292
+TIME OUT
+Resend pkt  = 292
+TIME OUT
+Resend pkt  = 293
+TIME OUT
+Resend pkt  = 294
+TIME OUT
+Resend pkt  = 295
+TIME OUT
+Resend pkt  = 296
+TIME OUT
+Resend pkt  = 297
+TIME OUT
+Resend pkt  = 298
+TIME OUT
+Resend pkt  = 299
+TIME OUT
+Resend pkt  = 300
+TIME OUT
+Resend pkt  = 301
+TIME OUT
+Resend pkt  = 302
+TIME OUT
+Resend pkt  = 303
+TIME OUT
+Resend pkt  = 304
+TIME OUT
+Resend pkt  = 305
+TIME OUT
+Resend pkt  = 306
+TIME OUT
+Resend pkt  = 307
+TIME OUT
+Resend pkt  = 308
+TIME OUT
+Resend pkt  = 309
+TIME OUT
+Resend pkt  = 310
+TIME OUT
+Resend pkt  = 311
+TIME OUT
+Resend pkt  = 312
+TIME OUT
+Resend pkt  = 313
+TIME OUT
+Resend pkt  = 314
+TIME OUT
+Resend pkt  = 315
+TIME OUT
+Resend pkt  = 316
+TIME OUT
+Resend pkt  = 317
+TIME OUT
+Resend pkt  = 318
+TIME OUT
+Resend pkt  = 319
+TIME OUT
+Resend pkt  = 320
+TIME OUT
+Resend pkt  = 321
+TIME OUT
+Resend pkt  = 322
+TIME OUT
+Resend pkt  = 323
+TIME OUT
+Resend pkt  = 324
+TIME OUT
+Resend pkt  = 325
+TIME OUT
+Resend pkt  = 326
+TIME OUT
+Resend pkt  = 327
+TIME OUT
+Resend pkt  = 328
+TIME OUT
+Resend pkt  = 329
+TIME OUT
+Resend pkt  = 330
+TIME OUT
+Resend pkt  = 331
+TIME OUT
+Resend pkt  = 332
+TIME OUT
+Resend pkt  = 333
+TIME OUT
+Resend pkt  = 334
+TIME OUT
+Resend pkt  = 335
+TIME OUT
+Resend pkt  = 336
+TIME OUT
+Resend pkt  = 337
+TIME OUT
+Resend pkt  = 338
+TIME OUT
+Resend pkt  = 339
+TIME OUT
+Resend pkt  = 340
+ack 292 received
+increase  window size  from  72 TO 73
+pkt is acked...move the window
+base  pkt  is = 293
+ack 293 received
+increase  window size  from  73 TO 74
+pkt is acked...move the window
+base  pkt  is = 294
+ack 294 received
+increase  window size  from  74 TO 75
+pkt is acked...move the window
+base  pkt  is = 295
+ack 295 received
+increase  window size  from  75 TO 76
+pkt is acked...move the window
+base  pkt  is = 296
+ack 296 received
+increase  window size  from  76 TO 77
+pkt is acked...move the window
+base  pkt  is = 297
+ack 297 received
+increase  window size  from  77 TO 78
+pkt is acked...move the window
+base  pkt  is = 298
+ack 298 received
+increase  window size  from  78 TO 79
+pkt is acked...move the window
+base  pkt  is = 299
+ack 299 received
+increase  window size  from  79 TO 80
+pkt is acked...move the window
+base  pkt  is = 300
+ack 300 received
+increase  window size  from  80 TO 81
+pkt is acked...move the window
+base  pkt  is = 301
+ack 301 received
+increase  window size  from  81 TO 82
+pkt is acked...move the window
+base  pkt  is = 302
+ack 302 received
+increase  window size  from  82 TO 83
+pkt is acked...move the window
+base  pkt  is = 303
+ack 303 received
+increase  window size  from  83 TO 84
+pkt is acked...move the window
+base  pkt  is = 304
+ack 304 received
+increase  window size  from  84 TO 85
+pkt is acked...move the window
+base  pkt  is = 305
+ack 305 received
+increase  window size  from  85 TO 86
+pkt is acked...move the window
+base  pkt  is = 306
+ack 306 received
+increase  window size  from  86 TO 87
+pkt is acked...move the window
+base  pkt  is = 307
+ack 307 received
+increase  window size  from  87 TO 88
+pkt is acked...move the window
+base  pkt  is = 308
+ack 308 received
+increase  window size  from  88 TO 89
+pkt is acked...move the window
+base  pkt  is = 309
+ack 309 received
+increase  window size  from  89 TO 90
+pkt is acked...move the window
+base  pkt  is = 310
+ack 310 received
+increase  window size  from  90 TO 91
+pkt is acked...move the window
+base  pkt  is = 311
+ack 311 received
+increase  window size  from  91 TO 92
+pkt is acked...move the window
+base  pkt  is = 312
+ack 312 received
+increase  window size  from  92 TO 93
+pkt is acked...move the window
+base  pkt  is = 313
+ack 313 received
+increase  window size  from  93 TO 94
+pkt is acked...move the window
+base  pkt  is = 314
+ack 314 received
+increase  window size  from  94 TO 95
+pkt is acked...move the window
+base  pkt  is = 315
+ack 315 received
+increase  window size  from  95 TO 96
+pkt is acked...move the window
+base  pkt  is = 316
+ack 316 received
+increase  window size  from  96 TO 97
+pkt is acked...move the window
+base  pkt  is = 317
+ack 317 received
+increase  window size  from  97 TO 98
+pkt is acked...move the window
+base  pkt  is = 318
+ack 318 received
+increase  window size  from  98 TO 99
+pkt is acked...move the window
+base  pkt  is = 319
+ack 319 received
+increase  window size  from  99 TO 100
+pkt is acked...move the window
+base  pkt  is = 320
+ack 320 received
+pkt is acked...move the window
+base  pkt  is = 321
+ack 321 received
+pkt is acked...move the window
+base  pkt  is = 322
+ack 322 received
+pkt is acked...move the window
+base  pkt  is = 323
+ack 323 received
+pkt is acked...move the window
+base  pkt  is = 324
+ack 324 received
+pkt is acked...move the window
+base  pkt  is = 325
+ack 325 received
+pkt is acked...move the window
+base  pkt  is = 326
+ack 326 received
+pkt is acked...move the window
+base  pkt  is = 327
+ack 327 received
+pkt is acked...move the window
+base  pkt  is = 328
+ack 328 received
+pkt is acked...move the window
+base  pkt  is = 329
+ack 329 received
+pkt is acked...move the window
+base  pkt  is = 330
+ack 330 received
+pkt is acked...move the window
+base  pkt  is = 331
+ack 331 received
+pkt is acked...move the window
+base  pkt  is = 332
+ack 332 received
+pkt is acked...move the window
+base  pkt  is = 333
+ack 333 received
+pkt is acked...move the window
+base  pkt  is = 334
+ack 334 received
+pkt is acked...move the window
+base  pkt  is = 335
+ack 335 received
+pkt is acked...move the window
+base  pkt  is = 336
+ack 336 received
+pkt is acked...move the window
+base  pkt  is = 337
+ack 337 received
+pkt is acked...move the window
+base  pkt  is = 338
+ack 338 received
+pkt is acked...move the window
+base  pkt  is = 339
+ack 339 received
+pkt is acked...move the window
+base  pkt  is = 340
+ack 340 received
+pkt is acked...move the window
+base  pkt  is = 341
+pkt 364 is sent
+pkt 365 is sent
+pkt 366 is sent
+pkt 367 is sent
+pkt 368 is sent
+pkt 369 is sent
+pkt 370 is sent
+pkt 371 is sent
+pkt 372 is sent
+pkt 373 is sent
+pkt 374 is sent
+pkt 375 is sent
+pkt 376 is sent
+pkt 377 is sent
+pkt 378 is sent
+pkt 379 is sent
+pkt 380 is sent
+pkt 381 is sent
+pkt 382 is sent
+pkt 383 is sent
+pkt 384 is sent
+pkt 385 is sent
+pkt 386 is sent
+pkt 387 is sent
+pkt 388 is sent
+pkt 389 is sent
+pkt 390 is sent
+pkt 391 is sent
+pkt 392 is sent
+pkt 393 is sent
+pkt 394 is sent
+pkt 395 is sent
+pkt 396 is sent
+pkt 397 is sent
+pkt 398 is sent
+pkt 399 is sent
+pkt 400 is sent
+pkt 401 is sent
+pkt 402 is sent
+pkt 403 is sent
+pkt 404 is sent
+pkt 405 is sent
+pkt 406 is sent
+pkt 407 is sent
+pkt 408 is sent
+pkt 409 is sent
+pkt 410 is sent
+pkt 411 is sent
+pkt 412 is sent
+pkt 413 is sent
+pkt 414 is sent
+pkt 415 is sent
+pkt 416 is sent
+pkt 417 is sent
+pkt 418 is sent
+pkt 419 is sent
+pkt 420 is sent
+pkt 421 is sent
+pkt 422 is sent
+pkt 423 is sent
+pkt 424 is sent
+pkt 425 is sent
+pkt 426 is sent
+pkt 427 is sent
+pkt 428 is sent
+pkt 429 is sent
+pkt 430 is sent
+pkt 431 is sent
+pkt 432 is sent
+pkt 433 is sent
+pkt 434 is sent
+pkt 435 is sent
+pkt 436 is sent
+pkt 437 is sent
+pkt 438 is sent
+pkt 439 is sent
+pkt 440 is sent
+TIME OUT
+Resend pkt  = 341
+TIME OUT
+Resend pkt  = 342
+ack 341 received
+pkt is acked...move the window
+base  pkt  is = 342
+ack 342 received
+pkt is acked...move the window
+base  pkt  is = 343
+TIME OUT
+Resend pkt  = 343
+TIME OUT
+Resend pkt  = 344
+TIME OUT
+Resend pkt  = 345
+TIME OUT
+Resend pkt  = 346
+TIME OUT
+Resend pkt  = 347
+TIME OUT
+Resend pkt  = 348
+TIME OUT
+Resend pkt  = 349
+ack 343 received
+pkt is acked...move the window
+base  pkt  is = 344
+ack 344 received
+pkt is acked...move the window
+base  pkt  is = 345
+ack 345 received
+pkt is acked...move the window
+base  pkt  is = 346
+ack 346 received
+pkt is acked...move the window
+base  pkt  is = 347
+ack 347 received
+pkt is acked...move the window
+base  pkt  is = 348
+ack 348 received
+pkt is acked...move the window
+base  pkt  is = 349
+ack 349 received
+pkt is acked...move the window
+base  pkt  is = 350
+TIME OUT
+Resend pkt  = 350
+TIME OUT
+Resend pkt  = 351
+TIME OUT
+Resend pkt  = 352
+ack 350 received
+pkt is acked...move the window
+base  pkt  is = 351
+ack 351 received
+pkt is acked...move the window
+base  pkt  is = 352
+ack 352 received
+pkt is acked...move the window
+base  pkt  is = 353
+pkt 441 is sent
+pkt 442 is sent
+pkt 443 is sent
+pkt 444 is sent
+pkt 445 is sent
+pkt 446 is sent
+pkt 447 is sent
+pkt 448 is sent
+pkt 449 is sent
+pkt 450 is sent
+pkt 451 is sent
+pkt 452 is sent
+TIME OUT
+Resend pkt  = 353
+TIME OUT
+Resend pkt  = 354
+TIME OUT
+Resend pkt  = 355
+TIME OUT
+Resend pkt  = 356
+ack 353 received
+pkt is acked...move the window
+base  pkt  is = 354
+ack 354 received
+pkt is acked...move the window
+base  pkt  is = 355
+ack 355 received
+pkt is acked...move the window
+base  pkt  is = 356
+ack 356 received
+pkt is acked...move the window
+base  pkt  is = 357
+pkt 453 is sent
+there is a pkt loss 
+
+pkt :454 is lost 
+
+pkt 454 is sent
+TIME OUT
+Resend pkt  = 357
+TIME OUT
+Resend pkt  = 358
+TIME OUT
+Resend pkt  = 359
+TIME OUT
+Resend pkt  = 360
+TIME OUT
+Resend pkt  = 361
+ack 357 received
+increase  window size  from  1 TO 2
+pkt is acked...move the window
+base  pkt  is = 358
+ack 358 received
+increase  window size  from  2 TO 4
+pkt is acked...move the window
+base  pkt  is = 359
+ack 359 received
+increase  window size  from  4 TO 8
+pkt is acked...move the window
+base  pkt  is = 360
+ack 360 received
+increase  window size  from  8 TO 16
+pkt is acked...move the window
+base  pkt  is = 361
+ack 361 received
+increase  window size  from  16 TO 32
+pkt is acked...move the window
+base  pkt  is = 362
+TIME OUT
+Resend pkt  = 362
+TIME OUT
+Resend pkt  = 363
+ack 362 received
+increase window size  from  0 TO 50
+pkt is acked...move the window
+base  pkt  is = 363
+ack 363 received
+increase  window size  from  50 TO 51
+pkt is acked...move the window
+base  pkt  is = 364
+TIME OUT
+Resend pkt  = 364
+TIME OUT
+Resend pkt  = 365
+TIME OUT
+Resend pkt  = 366
+TIME OUT
+Resend pkt  = 367
+TIME OUT
+Resend pkt  = 368
+TIME OUT
+Resend pkt  = 369
+TIME OUT
+Resend pkt  = 370
+TIME OUT
+Resend pkt  = 371
+TIME OUT
+Resend pkt  = 372
+TIME OUT
+Resend pkt  = 373
+TIME OUT
+Resend pkt  = 374
+TIME OUT
+Resend pkt  = 375
+TIME OUT
+Resend pkt  = 376
+TIME OUT
+Resend pkt  = 377
+TIME OUT
+Resend pkt  = 378
+TIME OUT
+Resend pkt  = 379
+TIME OUT
+Resend pkt  = 380
+TIME OUT
+Resend pkt  = 381
+TIME OUT
+Resend pkt  = 382
+TIME OUT
+Resend pkt  = 383
+TIME OUT
+Resend pkt  = 384
+TIME OUT
+Resend pkt  = 385
+TIME OUT
+Resend pkt  = 386
+TIME OUT
+Resend pkt  = 387
+TIME OUT
+Resend pkt  = 388
+TIME OUT
+Resend pkt  = 389
+TIME OUT
+Resend pkt  = 390
+TIME OUT
+Resend pkt  = 391
+TIME OUT
+Resend pkt  = 392
+TIME OUT
+Resend pkt  = 393
+TIME OUT
+Resend pkt  = 394
+TIME OUT
+Resend pkt  = 395
+TIME OUT
+Resend pkt  = 396
+TIME OUT
+Resend pkt  = 397
+TIME OUT
+Resend pkt  = 398
+TIME OUT
+Resend pkt  = 399
+TIME OUT
+Resend pkt  = 400
+TIME OUT
+Resend pkt  = 401
+TIME OUT
+Resend pkt  = 402
+TIME OUT
+Resend pkt  = 403
+TIME OUT
+Resend pkt  = 404
+TIME OUT
+Resend pkt  = 405
+TIME OUT
+Resend pkt  = 406
+TIME OUT
+Resend pkt  = 407
+TIME OUT
+Resend pkt  = 408
+TIME OUT
+Resend pkt  = 409
+TIME OUT
+Resend pkt  = 410
+TIME OUT
+Resend pkt  = 411
+TIME OUT
+Resend pkt  = 412
+TIME OUT
+Resend pkt  = 413
+TIME OUT
+Resend pkt  = 414
+TIME OUT
+Resend pkt  = 415
+TIME OUT
+Resend pkt  = 416
+TIME OUT
+Resend pkt  = 417
+TIME OUT
+Resend pkt  = 418
+TIME OUT
+Resend pkt  = 419
+TIME OUT
+Resend pkt  = 420
+TIME OUT
+Resend pkt  = 421
+TIME OUT
+Resend pkt  = 422
+TIME OUT
+Resend pkt  = 423
+TIME OUT
+Resend pkt  = 424
+ack 364 received
+increase  window size  from  51 TO 52
+pkt is acked...move the window
+base  pkt  is = 365
+ack 365 received
+increase  window size  from  52 TO 53
+pkt is acked...move the window
+base  pkt  is = 366
+ack 366 received
+increase  window size  from  53 TO 54
+pkt is acked...move the window
+base  pkt  is = 367
+ack 367 received
+increase  window size  from  54 TO 55
+pkt is acked...move the window
+base  pkt  is = 368
+ack 368 received
+increase  window size  from  55 TO 56
+pkt is acked...move the window
+base  pkt  is = 369
+TIME OUT
+Resend pkt  = 425
+TIME OUT
+Resend pkt  = 426
+TIME OUT
+Resend pkt  = 427
+TIME OUT
+Resend pkt  = 428
+TIME OUT
+Resend pkt  = 429
+TIME OUT
+Resend pkt  = 430
+TIME OUT
+Resend pkt  = 431
+TIME OUT
+Resend pkt  = 432
+TIME OUT
+Resend pkt  = 433
+TIME OUT
+Resend pkt  = 434
+TIME OUT
+Resend pkt  = 435
+TIME OUT
+Resend pkt  = 436
+TIME OUT
+Resend pkt  = 437
+TIME OUT
+Resend pkt  = 438
+TIME OUT
+Resend pkt  = 439
+TIME OUT
+Resend pkt  = 440
+ack 369 received
+increase  window size  from  56 TO 57
+pkt is acked...move the window
+base  pkt  is = 370
+ack 370 received
+increase  window size  from  57 TO 58
+pkt is acked...move the window
+base  pkt  is = 371
+ack 371 received
+increase  window size  from  58 TO 59
+pkt is acked...move the window
+base  pkt  is = 372
+ack 372 received
+increase  window size  from  59 TO 60
+pkt is acked...move the window
+base  pkt  is = 373
+ack 373 received
+increase  window size  from  60 TO 61
+pkt is acked...move the window
+base  pkt  is = 374
+ack 374 received
+increase  window size  from  61 TO 62
+pkt is acked...move the window
+base  pkt  is = 375
+ack 375 received
+increase  window size  from  62 TO 63
+pkt is acked...move the window
+base  pkt  is = 376
+ack 376 received
+increase  window size  from  63 TO 64
+pkt is acked...move the window
+base  pkt  is = 377
+ack 377 received
+increase  window size  from  64 TO 65
+pkt is acked...move the window
+base  pkt  is = 378
+ack 378 received
+increase  window size  from  65 TO 66
+pkt is acked...move the window
+base  pkt  is = 379
+ack 379 received
+increase  window size  from  66 TO 67
+pkt is acked...move the window
+base  pkt  is = 380
+ack 380 received
+increase  window size  from  67 TO 68
+pkt is acked...move the window
+base  pkt  is = 381
+ack 381 received
+increase  window size  from  68 TO 69
+pkt is acked...move the window
+base  pkt  is = 382
+ack 382 received
+increase  window size  from  69 TO 70
+pkt is acked...move the window
+base  pkt  is = 383
+ack 383 received
+increase  window size  from  70 TO 71
+pkt is acked...move the window
+base  pkt  is = 384
+ack 384 received
+increase  window size  from  71 TO 72
+pkt is acked...move the window
+base  pkt  is = 385
+pkt 455 is sent
+pkt 456 is sent
+ack 385 received
+increase  window size  from  72 TO 73
+pkt is acked...move the window
+base  pkt  is = 386
+ack 386 received
+increase  window size  from  73 TO 74
+pkt is acked...move the window
+base  pkt  is = 387
+ack 387 received
+increase  window size  from  74 TO 75
+pkt is acked...move the window
+base  pkt  is = 388
+ack 388 received
+increase  window size  from  75 TO 76
+pkt is acked...move the window
+base  pkt  is = 389
+ack 389 received
+increase  window size  from  76 TO 77
+pkt is acked...move the window
+base  pkt  is = 390
+ack 390 received
+increase  window size  from  77 TO 78
+pkt is acked...move the window
+base  pkt  is = 391
+pkt 457 is sent
+pkt 458 is sent
+ack 391 received
+increase  window size  from  78 TO 79
+pkt is acked...move the window
+base  pkt  is = 392
+ack 392 received
+increase  window size  from  79 TO 80
+pkt is acked...move the window
+base  pkt  is = 393
+ack 393 received
+increase  window size  from  80 TO 81
+pkt is acked...move the window
+base  pkt  is = 394
+ack 394 received
+increase  window size  from  81 TO 82
+pkt is acked...move the window
+base  pkt  is = 395
+ack 395 received
+increase  window size  from  82 TO 83
+pkt is acked...move the window
+base  pkt  is = 396
+ack 396 received
+increase  window size  from  83 TO 84
+pkt is acked...move the window
+base  pkt  is = 397
+ack 397 received
+increase  window size  from  84 TO 85
+pkt is acked...move the window
+base  pkt  is = 398
+ack 398 received
+increase  window size  from  85 TO 86
+pkt is acked...move the window
+base  pkt  is = 399
+ack 399 received
+increase  window size  from  86 TO 87
+pkt is acked...move the window
+base  pkt  is = 400
+ack 400 received
+increase  window size  from  87 TO 88
+pkt is acked...move the window
+base  pkt  is = 401
+ack 401 received
+increase  window size  from  88 TO 89
+pkt is acked...move the window
+base  pkt  is = 402
+ack 402 received
+increase  window size  from  89 TO 90
+pkt is acked...move the window
+base  pkt  is = 403
+ack 403 received
+increase  window size  from  90 TO 91
+pkt is acked...move the window
+base  pkt  is = 404
+ack 404 received
+increase  window size  from  91 TO 92
+pkt is acked...move the window
+base  pkt  is = 405
+ack 405 received
+increase  window size  from  92 TO 93
+pkt is acked...move the window
+base  pkt  is = 406
+ack 406 received
+increase  window size  from  93 TO 94
+pkt is acked...move the window
+base  pkt  is = 407
+ack 407 received
+increase  window size  from  94 TO 95
+pkt is acked...move the window
+base  pkt  is = 408
+ack 408 received
+increase  window size  from  95 TO 96
+pkt is acked...move the window
+base  pkt  is = 409
+ack 409 received
+increase  window size  from  96 TO 97
+pkt is acked...move the window
+base  pkt  is = 410
+ack 410 received
+increase  window size  from  97 TO 98
+pkt is acked...move the window
+base  pkt  is = 411
+ack 411 received
+increase  window size  from  98 TO 99
+pkt is acked...move the window
+base  pkt  is = 412
+ack 412 received
+increase  window size  from  99 TO 100
+pkt is acked...move the window
+base  pkt  is = 413
+ack 413 received
+pkt is acked...move the window
+base  pkt  is = 414
+ack 414 received
+pkt is acked...move the window
+base  pkt  is = 415
+ack 415 received
+pkt is acked...move the window
+base  pkt  is = 416
+ack 416 received
+pkt is acked...move the window
+base  pkt  is = 417
+ack 417 received
+pkt is acked...move the window
+base  pkt  is = 418
+ack 418 received
+pkt is acked...move the window
+base  pkt  is = 419
+pkt 459 is sent
+pkt 460 is sent
+pkt 461 is sent
+pkt 462 is sent
+pkt 463 is sent
+pkt 464 is sent
+pkt 465 is sent
+pkt 466 is sent
+pkt 467 is sent
+pkt 468 is sent
+pkt 469 is sent
+pkt 470 is sent
+pkt 471 is sent
+pkt 472 is sent
+pkt 473 is sent
+pkt 474 is sent
+pkt 475 is sent
+pkt 476 is sent
+pkt 477 is sent
+pkt 478 is sent
+pkt 479 is sent
+pkt 480 is sent
+pkt 481 is sent
+pkt 482 is sent
+pkt 483 is sent
+pkt 484 is sent
+pkt 485 is sent
+pkt 486 is sent
+pkt 487 is sent
+pkt 488 is sent
+pkt 489 is sent
+pkt 490 is sent
+pkt 491 is sent
+pkt 492 is sent
+pkt 493 is sent
+pkt 494 is sent
+pkt 495 is sent
+pkt 496 is sent
+pkt 497 is sent
+pkt 498 is sent
+pkt 499 is sent
+pkt 500 is sent
+pkt 501 is sent
+pkt 502 is sent
+pkt 503 is sent
+pkt 504 is sent
+pkt 505 is sent
+pkt 506 is sent
+pkt 507 is sent
+pkt 508 is sent
+pkt 509 is sent
+pkt 510 is sent
+pkt 511 is sent
+pkt 512 is sent
+pkt 513 is sent
+pkt 514 is sent
+pkt 515 is sent
+pkt 516 is sent
+pkt 517 is sent
+pkt 518 is sent
+ack 419 received
+pkt is acked...move the window
+base  pkt  is = 420
+ack 420 received
+pkt is acked...move the window
+base  pkt  is = 421
+ack 421 received
+pkt is acked...move the window
+base  pkt  is = 422
+ack 422 received
+pkt is acked...move the window
+base  pkt  is = 423
+ack 423 received
+pkt is acked...move the window
+base  pkt  is = 424
+ack 424 received
+pkt is acked...move the window
+base  pkt  is = 425
+ack 425 received
+pkt is acked...move the window
+base  pkt  is = 426
+ack 426 received
+pkt is acked...move the window
+base  pkt  is = 427
+ack 427 received
+pkt is acked...move the window
+base  pkt  is = 428
+ack 428 received
+pkt is acked...move the window
+base  pkt  is = 429
+ack 429 received
+pkt is acked...move the window
+base  pkt  is = 430
+ack 430 received
+pkt is acked...move the window
+base  pkt  is = 431
+ack 431 received
+pkt is acked...move the window
+base  pkt  is = 432
+ack 432 received
+pkt is acked...move the window
+base  pkt  is = 433
+ack 433 received
+pkt is acked...move the window
+base  pkt  is = 434
+ack 434 received
+pkt is acked...move the window
+base  pkt  is = 435
+ack 435 received
+pkt is acked...move the window
+base  pkt  is = 436
+ack 436 received
+pkt is acked...move the window
+base  pkt  is = 437
+ack 437 received
+pkt is acked...move the window
+base  pkt  is = 438
+ack 438 received
+pkt is acked...move the window
+base  pkt  is = 439
+ack 439 received
+pkt is acked...move the window
+base  pkt  is = 440
+ack 440 received
+pkt is acked...move the window
+base  pkt  is = 441
+pkt 519 is sent
+pkt 520 is sent
+pkt 521 is sent
+pkt 522 is sent
+pkt 523 is sent
+pkt 524 is sent
+pkt 525 is sent
+pkt 526 is sent
+pkt 527 is sent
+pkt 528 is sent
+pkt 529 is sent
+pkt 530 is sent
+pkt 531 is sent
+pkt 532 is sent
+pkt 533 is sent
+pkt 534 is sent
+pkt 535 is sent
+pkt 536 is sent
+pkt 537 is sent
+pkt 538 is sent
+pkt 539 is sent
+pkt 540 is sent
+TIME OUT
+Resend pkt  = 441
+TIME OUT
+Resend pkt  = 442
+TIME OUT
+Resend pkt  = 443
+TIME OUT
+Resend pkt  = 444
+TIME OUT
+Resend pkt  = 445
+TIME OUT
+Resend pkt  = 446
+TIME OUT
+Resend pkt  = 447
+TIME OUT
+Resend pkt  = 448
+TIME OUT
+Resend pkt  = 449
+TIME OUT
+Resend pkt  = 450
+TIME OUT
+Resend pkt  = 451
+TIME OUT
+Resend pkt  = 452
+TIME OUT
+Resend pkt  = 453
+TIME OUT
+Resend pkt  = 454
+ack 441 received
+pkt is acked...move the window
+base  pkt  is = 442
+ack 442 received
+pkt is acked...move the window
+base  pkt  is = 443
+ack 443 received
+pkt is acked...move the window
+base  pkt  is = 444
+ack 444 received
+pkt is acked...move the window
+base  pkt  is = 445
+ack 445 received
+pkt is acked...move the window
+base  pkt  is = 446
+ack 446 received
+pkt is acked...move the window
+base  pkt  is = 447
+ack 447 received
+pkt is acked...move the window
+base  pkt  is = 448
+ack 448 received
+pkt is acked...move the window
+base  pkt  is = 449
+ack 449 received
+pkt is acked...move the window
+base  pkt  is = 450
+ack 450 received
+pkt is acked...move the window
+base  pkt  is = 451
+ack 451 received
+pkt is acked...move the window
+base  pkt  is = 452
+ack 452 received
+pkt is acked...move the window
+base  pkt  is = 453
+ack 453 received
+pkt is acked...move the window
+base  pkt  is = 454
+ack 454 received
+pkt is acked...move the window
+base  pkt  is = 455
+pkt 541 is sent
+pkt 542 is sent
+pkt 543 is sent
+pkt 544 is sent
+there is a pkt loss 
+
+pkt :545 is lost 
+
+pkt 545 is sent
+TIME OUT
+Resend pkt  = 455
+TIME OUT
+Resend pkt  = 456
+TIME OUT
+Resend pkt  = 457
+TIME OUT
+Resend pkt  = 458
+TIME OUT
+Resend pkt  = 459
+TIME OUT
+Resend pkt  = 460
+TIME OUT
+Resend pkt  = 461
+TIME OUT
+Resend pkt  = 462
+TIME OUT
+Resend pkt  = 463
+TIME OUT
+Resend pkt  = 464
+TIME OUT
+Resend pkt  = 465
+TIME OUT
+Resend pkt  = 466
+TIME OUT
+Resend pkt  = 467
+TIME OUT
+Resend pkt  = 468
+TIME OUT
+Resend pkt  = 469
+TIME OUT
+Resend pkt  = 470
+TIME OUT
+Resend pkt  = 471
+TIME OUT
+Resend pkt  = 472
+TIME OUT
+Resend pkt  = 473
+TIME OUT
+Resend pkt  = 474
+TIME OUT
+Resend pkt  = 475
+TIME OUT
+Resend pkt  = 476
+TIME OUT
+Resend pkt  = 477
+TIME OUT
+Resend pkt  = 478
+TIME OUT
+Resend pkt  = 479
+TIME OUT
+Resend pkt  = 480
+TIME OUT
+Resend pkt  = 481
+TIME OUT
+Resend pkt  = 482
+TIME OUT
+Resend pkt  = 483
+TIME OUT
+Resend pkt  = 484
+TIME OUT
+Resend pkt  = 485
+TIME OUT
+Resend pkt  = 486
+TIME OUT
+Resend pkt  = 487
+TIME OUT
+Resend pkt  = 488
+TIME OUT
+Resend pkt  = 489
+TIME OUT
+Resend pkt  = 490
+TIME OUT
+Resend pkt  = 491
+TIME OUT
+Resend pkt  = 492
+TIME OUT
+Resend pkt  = 493
+TIME OUT
+Resend pkt  = 494
+TIME OUT
+Resend pkt  = 495
+TIME OUT
+Resend pkt  = 496
+TIME OUT
+Resend pkt  = 497
+TIME OUT
+Resend pkt  = 498
+TIME OUT
+Resend pkt  = 499
+TIME OUT
+Resend pkt  = 500
+TIME OUT
+Resend pkt  = 501
+TIME OUT
+Resend pkt  = 502
+TIME OUT
+Resend pkt  = 503
+TIME OUT
+Resend pkt  = 504
+TIME OUT
+Resend pkt  = 505
+TIME OUT
+Resend pkt  = 506
+TIME OUT
+Resend pkt  = 507
+TIME OUT
+Resend pkt  = 508
+TIME OUT
+Resend pkt  = 509
+TIME OUT
+Resend pkt  = 510
+TIME OUT
+Resend pkt  = 511
+TIME OUT
+Resend pkt  = 512
+TIME OUT
+Resend pkt  = 513
+TIME OUT
+Resend pkt  = 514
+TIME OUT
+Resend pkt  = 515
+TIME OUT
+Resend pkt  = 516
+TIME OUT
+Resend pkt  = 517
+TIME OUT
+Resend pkt  = 518
+ack 455 received
+increase  window size  from  1 TO 2
+pkt is acked...move the window
+base  pkt  is = 456
+ack 456 received
+increase  window size  from  2 TO 4
+pkt is acked...move the window
+base  pkt  is = 457
+ack 457 received
+increase  window size  from  4 TO 8
+pkt is acked...move the window
+base  pkt  is = 458
+ack 458 received
+increase  window size  from  8 TO 16
+pkt is acked...move the window
+base  pkt  is = 459
+ack 459 received
+increase  window size  from  16 TO 32
+pkt is acked...move the window
+base  pkt  is = 460
+ack 460 received
+increase window size  from  0 TO 50
+pkt is acked...move the window
+base  pkt  is = 461
+ack 461 received
+increase  window size  from  50 TO 51
+pkt is acked...move the window
+base  pkt  is = 462
+ack 462 received
+increase  window size  from  51 TO 52
+pkt is acked...move the window
+base  pkt  is = 463
+ack 463 received
+increase  window size  from  52 TO 53
+pkt is acked...move the window
+base  pkt  is = 464
+ack 464 received
+increase  window size  from  53 TO 54
+pkt is acked...move the window
+base  pkt  is = 465
+ack 465 received
+increase  window size  from  54 TO 55
+pkt is acked...move the window
+base  pkt  is = 466
+ack 466 received
+increase  window size  from  55 TO 56
+pkt is acked...move the window
+base  pkt  is = 467
+ack 467 received
+increase  window size  from  56 TO 57
+pkt is acked...move the window
+base  pkt  is = 468
+ack 468 received
+increase  window size  from  57 TO 58
+pkt is acked...move the window
+base  pkt  is = 469
+ack 469 received
+increase  window size  from  58 TO 59
+pkt is acked...move the window
+base  pkt  is = 470
+ack 470 received
+increase  window size  from  59 TO 60
+pkt is acked...move the window
+base  pkt  is = 471
+ack 471 received
+increase  window size  from  60 TO 61
+pkt is acked...move the window
+base  pkt  is = 472
+ack 472 received
+increase  window size  from  61 TO 62
+pkt is acked...move the window
+base  pkt  is = 473
+ack 473 received
+increase  window size  from  62 TO 63
+pkt is acked...move the window
+base  pkt  is = 474
+ack 474 received
+increase  window size  from  63 TO 64
+pkt is acked...move the window
+base  pkt  is = 475
+ack 475 received
+increase  window size  from  64 TO 65
+pkt is acked...move the window
+base  pkt  is = 476
+ack 476 received
+increase  window size  from  65 TO 66
+pkt is acked...move the window
+base  pkt  is = 477
+ack 477 received
+increase  window size  from  66 TO 67
+pkt is acked...move the window
+base  pkt  is = 478
+ack 478 received
+increase  window size  from  67 TO 68
+pkt is acked...move the window
+base  pkt  is = 479
+ack 479 received
+increase  window size  from  68 TO 69
+pkt is acked...move the window
+base  pkt  is = 480
+ack 480 received
+increase  window size  from  69 TO 70
+pkt is acked...move the window
+base  pkt  is = 481
+ack 481 received
+increase  window size  from  70 TO 71
+pkt is acked...move the window
+base  pkt  is = 482
+ack 482 received
+increase  window size  from  71 TO 72
+pkt is acked...move the window
+base  pkt  is = 483
+ack 483 received
+increase  window size  from  72 TO 73
+pkt is acked...move the window
+base  pkt  is = 484
+ack 484 received
+increase  window size  from  73 TO 74
+pkt is acked...move the window
+base  pkt  is = 485
+ack 485 received
+increase  window size  from  74 TO 75
+pkt is acked...move the window
+base  pkt  is = 486
+ack 486 received
+increase  window size  from  75 TO 76
+pkt is acked...move the window
+base  pkt  is = 487
+ack 487 received
+increase  window size  from  76 TO 77
+pkt is acked...move the window
+base  pkt  is = 488
+ack 488 received
+increase  window size  from  77 TO 78
+pkt is acked...move the window
+base  pkt  is = 489
+ack 489 received
+increase  window size  from  78 TO 79
+pkt is acked...move the window
+base  pkt  is = 490
+ack 490 received
+increase  window size  from  79 TO 80
+pkt is acked...move the window
+base  pkt  is = 491
+ack 491 received
+increase  window size  from  80 TO 81
+pkt is acked...move the window
+base  pkt  is = 492
+ack 492 received
+increase  window size  from  81 TO 82
+pkt is acked...move the window
+base  pkt  is = 493
+ack 493 received
+increase  window size  from  82 TO 83
+pkt is acked...move the window
+base  pkt  is = 494
+ack 494 received
+increase  window size  from  83 TO 84
+pkt is acked...move the window
+base  pkt  is = 495
+ack 495 received
+increase  window size  from  84 TO 85
+pkt is acked...move the window
+base  pkt  is = 496
+ack 496 received
+increase  window size  from  85 TO 86
+pkt is acked...move the window
+base  pkt  is = 497
+ack 497 received
+increase  window size  from  86 TO 87
+pkt is acked...move the window
+base  pkt  is = 498
+pkt 546 is sent
+pkt 547 is sent
+pkt 548 is sent
+pkt 549 is sent
+pkt 550 is sent
+pkt 551 is sent
+pkt 552 is sent
+pkt 553 is sent
+pkt 554 is sent
+pkt 555 is sent
+pkt 556 is sent
+pkt 557 is sent
+pkt 558 is sent
+pkt 559 is sent
+pkt 560 is sent
+pkt 561 is sent
+pkt 562 is sent
+pkt 563 is sent
+pkt 564 is sent
+pkt 565 is sent
+pkt 566 is sent
+pkt 567 is sent
+pkt 568 is sent
+pkt 569 is sent
+pkt 570 is sent
+pkt 571 is sent
+pkt 572 is sent
+ack 498 received
+increase  window size  from  87 TO 88
+pkt is acked...move the window
+base  pkt  is = 499
+ack 499 received
+increase  window size  from  88 TO 89
+pkt is acked...move the window
+base  pkt  is = 500
+ack 500 received
+increase  window size  from  89 TO 90
+pkt is acked...move the window
+base  pkt  is = 501
+ack 501 received
+increase  window size  from  90 TO 91
+pkt is acked...move the window
+base  pkt  is = 502
+ack 502 received
+increase  window size  from  91 TO 92
+pkt is acked...move the window
+base  pkt  is = 503
+ack 503 received
+increase  window size  from  92 TO 93
+pkt is acked...move the window
+base  pkt  is = 504
+ack 504 received
+increase  window size  from  93 TO 94
+pkt is acked...move the window
+base  pkt  is = 505
+ack 505 received
+increase  window size  from  94 TO 95
+pkt is acked...move the window
+base  pkt  is = 506
+ack 506 received
+increase  window size  from  95 TO 96
+pkt is acked...move the window
+base  pkt  is = 507
+ack 507 received
+increase  window size  from  96 TO 97
+pkt is acked...move the window
+base  pkt  is = 508
+TIME OUT
+Resend pkt  = 519
+TIME OUT
+Resend pkt  = 520
+TIME OUT
+Resend pkt  = 521
+TIME OUT
+Resend pkt  = 522
+TIME OUT
+Resend pkt  = 523
+TIME OUT
+Resend pkt  = 524
+TIME OUT
+Resend pkt  = 525
+TIME OUT
+Resend pkt  = 526
+TIME OUT
+Resend pkt  = 527
+TIME OUT
+Resend pkt  = 528
+TIME OUT
+Resend pkt  = 529
+TIME OUT
+Resend pkt  = 530
+TIME OUT
+Resend pkt  = 531
+TIME OUT
+Resend pkt  = 532
+TIME OUT
+Resend pkt  = 533
+TIME OUT
+Resend pkt  = 534
+TIME OUT
+Resend pkt  = 535
+TIME OUT
+Resend pkt  = 536
+TIME OUT
+Resend pkt  = 537
+TIME OUT
+Resend pkt  = 538
+TIME OUT
+Resend pkt  = 539
+TIME OUT
+Resend pkt  = 540
+pkt 573 is sent
+pkt 574 is sent
+pkt 575 is sent
+ack 508 received
+increase  window size  from  97 TO 98
+pkt is acked...move the window
+base  pkt  is = 509
+ack 509 received
+increase  window size  from  98 TO 99
+pkt is acked...move the window
+base  pkt  is = 510
+pkt 576 is sent
+pkt 577 is sent
+pkt 578 is sent
+pkt 579 is sent
+pkt 580 is sent
+pkt 581 is sent
+pkt 582 is sent
+pkt 583 is sent
+pkt 584 is sent
+pkt 585 is sent
+pkt 586 is sent
+pkt 587 is sent
+pkt 588 is sent
+pkt 589 is sent
+pkt 590 is sent
+pkt 591 is sent
+pkt 592 is sent
+pkt 593 is sent
+pkt 594 is sent
+pkt 595 is sent
+pkt 596 is sent
+pkt 597 is sent
+pkt 598 is sent
+pkt 599 is sent
+pkt 600 is sent
+pkt 601 is sent
+pkt 602 is sent
+pkt 603 is sent
+pkt 604 is sent
+ack 510 received
+increase  window size  from  99 TO 100
+pkt is acked...move the window
+base  pkt  is = 511
+ack 511 received
+pkt is acked...move the window
+base  pkt  is = 512
+ack 512 received
+pkt is acked...move the window
+base  pkt  is = 513
+ack 513 received
+pkt is acked...move the window
+base  pkt  is = 514
+ack 514 received
+pkt is acked...move the window
+base  pkt  is = 515
+ack 515 received
+pkt is acked...move the window
+base  pkt  is = 516
+ack 516 received
+pkt is acked...move the window
+base  pkt  is = 517
+ack 517 received
+pkt is acked...move the window
+base  pkt  is = 518
+ack 518 received
+pkt is acked...move the window
+base  pkt  is = 519
+ack 519 received
+pkt is acked...move the window
+base  pkt  is = 520
+ack 520 received
+pkt is acked...move the window
+base  pkt  is = 521
+ack 521 received
+pkt is acked...move the window
+base  pkt  is = 522
+ack 522 received
+pkt is acked...move the window
+base  pkt  is = 523
+ack 523 received
+pkt is acked...move the window
+base  pkt  is = 524
+ack 524 received
+pkt is acked...move the window
+base  pkt  is = 525
+ack 525 received
+pkt is acked...move the window
+base  pkt  is = 526
+pkt 605 is sent
+pkt 606 is sent
+pkt 607 is sent
+TIME OUT
+Resend pkt  = 541
+TIME OUT
+Resend pkt  = 542
+TIME OUT
+Resend pkt  = 543
+TIME OUT
+Resend pkt  = 544
+TIME OUT
+Resend pkt  = 545
+ack 526 received
+pkt is acked...move the window
+base  pkt  is = 527
+ack 527 received
+pkt is acked...move the window
+base  pkt  is = 528
+pkt 608 is sent
+pkt 609 is sent
+pkt 610 is sent
+pkt 611 is sent
+pkt 612 is sent
+pkt 613 is sent
+pkt 614 is sent
+pkt 615 is sent
+pkt 616 is sent
+ack 528 received
+pkt is acked...move the window
+base  pkt  is = 529
+ack 529 received
+pkt is acked...move the window
+base  pkt  is = 530
+ack 530 received
+pkt is acked...move the window
+base  pkt  is = 531
+ack 531 received
+pkt is acked...move the window
+base  pkt  is = 532
+pkt 617 is sent
+pkt 618 is sent
+pkt 619 is sent
+pkt 620 is sent
+pkt 621 is sent
+pkt 622 is sent
+pkt 623 is sent
+pkt 624 is sent
+pkt 625 is sent
+pkt 626 is sent
+pkt 627 is sent
+pkt 628 is sent
+pkt 629 is sent
+pkt 630 is sent
+pkt 631 is sent
+ack 532 received
+pkt is acked...move the window
+base  pkt  is = 533
+ack 533 received
+pkt is acked...move the window
+base  pkt  is = 534
+ack 534 received
+pkt is acked...move the window
+base  pkt  is = 535
+ack 535 received
+pkt is acked...move the window
+base  pkt  is = 536
+ack 536 received
+pkt is acked...move the window
+base  pkt  is = 537
+ack 537 received
+pkt is acked...move the window
+base  pkt  is = 538
+ack 538 received
+pkt is acked...move the window
+base  pkt  is = 539
+ack 539 received
+pkt is acked...move the window
+base  pkt  is = 540
+ack 540 received
+pkt is acked...move the window
+base  pkt  is = 541
+pkt 632 is sent
+pkt 633 is sent
+pkt 634 is sent
+pkt 635 is sent
+there is a pkt loss 
+
+pkt :636 is lost 
+
+pkt 636 is sent
+ack 541 received
+increase  window size  from  1 TO 2
+pkt is acked...move the window
+base  pkt  is = 542
+ack 542 received
+increase  window size  from  2 TO 4
+pkt is acked...move the window
+base  pkt  is = 543
+ack 543 received
+increase  window size  from  4 TO 8
+pkt is acked...move the window
+base  pkt  is = 544
+ack 544 received
+increase  window size  from  8 TO 16
+pkt is acked...move the window
+base  pkt  is = 545
+ack 545 received
+increase  window size  from  16 TO 32
+pkt is acked...move the window
+base  pkt  is = 546
+TIME OUT
+Resend pkt  = 546
+TIME OUT
+Resend pkt  = 547
+TIME OUT
+Resend pkt  = 548
+TIME OUT
+Resend pkt  = 549
+TIME OUT
+Resend pkt  = 550
+TIME OUT
+Resend pkt  = 551
+TIME OUT
+Resend pkt  = 552
+TIME OUT
+Resend pkt  = 553
+TIME OUT
+Resend pkt  = 554
+TIME OUT
+Resend pkt  = 555
+TIME OUT
+Resend pkt  = 556
+TIME OUT
+Resend pkt  = 557
+TIME OUT
+Resend pkt  = 558
+TIME OUT
+Resend pkt  = 559
+TIME OUT
+Resend pkt  = 560
+TIME OUT
+Resend pkt  = 561
+TIME OUT
+Resend pkt  = 562
+TIME OUT
+Resend pkt  = 563
+TIME OUT
+Resend pkt  = 564
+TIME OUT
+Resend pkt  = 565
+TIME OUT
+Resend pkt  = 566
+TIME OUT
+Resend pkt  = 567
+TIME OUT
+Resend pkt  = 568
+TIME OUT
+Resend pkt  = 569
+TIME OUT
+Resend pkt  = 570
+TIME OUT
+Resend pkt  = 571
+TIME OUT
+Resend pkt  = 572
+ack 546 received
+increase window size  from  0 TO 50
+pkt is acked...move the window
+base  pkt  is = 547
+ack 547 received
+increase  window size  from  50 TO 51
+pkt is acked...move the window
+base  pkt  is = 548
+ack 548 received
+increase  window size  from  51 TO 52
+pkt is acked...move the window
+base  pkt  is = 549
+ack 549 received
+increase  window size  from  52 TO 53
+pkt is acked...move the window
+base  pkt  is = 550
+ack 550 received
+increase  window size  from  53 TO 54
+pkt is acked...move the window
+base  pkt  is = 551
+ack 551 received
+increase  window size  from  54 TO 55
+pkt is acked...move the window
+base  pkt  is = 552
+ack 552 received
+increase  window size  from  55 TO 56
+pkt is acked...move the window
+base  pkt  is = 553
+ack 553 received
+increase  window size  from  56 TO 57
+pkt is acked...move the window
+base  pkt  is = 554
+ack 554 received
+increase  window size  from  57 TO 58
+pkt is acked...move the window
+base  pkt  is = 555
+ack 555 received
+increase  window size  from  58 TO 59
+pkt is acked...move the window
+base  pkt  is = 556
+ack 556 received
+increase  window size  from  59 TO 60
+pkt is acked...move the window
+base  pkt  is = 557
+ack 557 received
+increase  window size  from  60 TO 61
+pkt is acked...move the window
+base  pkt  is = 558
+ack 558 received
+increase  window size  from  61 TO 62
+pkt is acked...move the window
+base  pkt  is = 559
+ack 559 received
+increase  window size  from  62 TO 63
+pkt is acked...move the window
+base  pkt  is = 560
+ack 560 received
+increase  window size  from  63 TO 64
+pkt is acked...move the window
+base  pkt  is = 561
+ack 561 received
+increase  window size  from  64 TO 65
+pkt is acked...move the window
+base  pkt  is = 562
+ack 562 received
+increase  window size  from  65 TO 66
+pkt is acked...move the window
+base  pkt  is = 563
+ack 563 received
+increase  window size  from  66 TO 67
+pkt is acked...move the window
+base  pkt  is = 564
+ack 564 received
+increase  window size  from  67 TO 68
+pkt is acked...move the window
+base  pkt  is = 565
+ack 565 received
+increase  window size  from  68 TO 69
+pkt is acked...move the window
+base  pkt  is = 566
+ack 566 received
+increase  window size  from  69 TO 70
+pkt is acked...move the window
+base  pkt  is = 567
+ack 567 received
+increase  window size  from  70 TO 71
+pkt is acked...move the window
+base  pkt  is = 568
+ack 568 received
+increase  window size  from  71 TO 72
+pkt is acked...move the window
+base  pkt  is = 569
+ack 569 received
+increase  window size  from  72 TO 73
+pkt is acked...move the window
+base  pkt  is = 570
+pkt 637 is sent
+pkt 638 is sent
+pkt 639 is sent
+pkt 640 is sent
+ack 570 received
+increase  window size  from  73 TO 74
+pkt is acked...move the window
+base  pkt  is = 571
+ack 571 received
+increase  window size  from  74 TO 75
+pkt is acked...move the window
+base  pkt  is = 572
+ack 572 received
+increase  window size  from  75 TO 76
+pkt is acked...move the window
+base  pkt  is = 573
+pkt 641 is sent
+pkt 642 is sent
+pkt 643 is sent
+pkt 644 is sent
+pkt 645 is sent
+pkt 646 is sent
+pkt 647 is sent
+TIME OUT
+Resend pkt  = 573
+TIME OUT
+Resend pkt  = 574
+TIME OUT
+Resend pkt  = 575
+TIME OUT
+Resend pkt  = 576
+TIME OUT
+Resend pkt  = 577
+TIME OUT
+Resend pkt  = 578
+TIME OUT
+Resend pkt  = 579
+TIME OUT
+Resend pkt  = 580
+TIME OUT
+Resend pkt  = 581
+TIME OUT
+Resend pkt  = 582
+TIME OUT
+Resend pkt  = 583
+TIME OUT
+Resend pkt  = 584
+TIME OUT
+Resend pkt  = 585
+TIME OUT
+Resend pkt  = 586
+TIME OUT
+Resend pkt  = 587
+TIME OUT
+Resend pkt  = 588
+TIME OUT
+Resend pkt  = 589
+TIME OUT
+Resend pkt  = 590
+TIME OUT
+Resend pkt  = 591
+TIME OUT
+Resend pkt  = 592
+TIME OUT
+Resend pkt  = 593
+TIME OUT
+Resend pkt  = 594
+TIME OUT
+Resend pkt  = 595
+TIME OUT
+Resend pkt  = 596
+TIME OUT
+Resend pkt  = 597
+TIME OUT
+Resend pkt  = 598
+TIME OUT
+Resend pkt  = 599
+TIME OUT
+Resend pkt  = 600
+TIME OUT
+Resend pkt  = 601
+TIME OUT
+Resend pkt  = 602
+TIME OUT
+Resend pkt  = 603
+TIME OUT
+Resend pkt  = 604
+TIME OUT
+Resend pkt  = 605
+TIME OUT
+Resend pkt  = 606
+TIME OUT
+Resend pkt  = 607
+ack 573 received
+increase  window size  from  76 TO 77
+pkt is acked...move the window
+base  pkt  is = 574
+ack 574 received
+increase  window size  from  77 TO 78
+pkt is acked...move the window
+base  pkt  is = 575
+ack 575 received
+increase  window size  from  78 TO 79
+pkt is acked...move the window
+base  pkt  is = 576
+ack 576 received
+increase  window size  from  79 TO 80
+pkt is acked...move the window
+base  pkt  is = 577
+ack 577 received
+increase  window size  from  80 TO 81
+pkt is acked...move the window
+base  pkt  is = 578
+ack 578 received
+increase  window size  from  81 TO 82
+pkt is acked...move the window
+base  pkt  is = 579
+ack 579 received
+increase  window size  from  82 TO 83
+pkt is acked...move the window
+base  pkt  is = 580
+ack 580 received
+increase  window size  from  83 TO 84
+pkt is acked...move the window
+base  pkt  is = 581
+ack 581 received
+increase  window size  from  84 TO 85
+pkt is acked...move the window
+base  pkt  is = 582
+ack 582 received
+increase  window size  from  85 TO 86
+pkt is acked...move the window
+base  pkt  is = 583
+ack 583 received
+increase  window size  from  86 TO 87
+pkt is acked...move the window
+base  pkt  is = 584
+ack 584 received
+increase  window size  from  87 TO 88
+pkt is acked...move the window
+base  pkt  is = 585
+pkt 648 is sent
+pkt 649 is sent
+pkt 650 is sent
+pkt 651 is sent
+pkt 652 is sent
+pkt 653 is sent
+pkt 654 is sent
+pkt 655 is sent
+pkt 656 is sent
+pkt 657 is sent
+pkt 658 is sent
+pkt 659 is sent
+ack 585 received
+increase  window size  from  88 TO 89
+pkt is acked...move the window
+base  pkt  is = 586
+ack 586 received
+increase  window size  from  89 TO 90
+pkt is acked...move the window
+base  pkt  is = 587
+ack 587 received
+increase  window size  from  90 TO 91
+pkt is acked...move the window
+base  pkt  is = 588
+ack 588 received
+increase  window size  from  91 TO 92
+pkt is acked...move the window
+base  pkt  is = 589
+ack 589 received
+increase  window size  from  92 TO 93
+pkt is acked...move the window
+base  pkt  is = 590
+pkt 660 is sent
+ack 590 received
+increase  window size  from  93 TO 94
+pkt is acked...move the window
+base  pkt  is = 591
+ack 591 received
+increase  window size  from  94 TO 95
+pkt is acked...move the window
+base  pkt  is = 592
+ack 592 received
+increase  window size  from  95 TO 96
+pkt is acked...move the window
+base  pkt  is = 593
+pkt 661 is sent
+pkt 662 is sent
+pkt 663 is sent
+pkt 664 is sent
+pkt 665 is sent
+pkt 666 is sent
+pkt 667 is sent
+pkt 668 is sent
+ack 593 received
+increase  window size  from  96 TO 97
+pkt is acked...move the window
+base  pkt  is = 594
+ack 594 received
+increase  window size  from  97 TO 98
+pkt is acked...move the window
+base  pkt  is = 595
+ack 595 received
+increase  window size  from  98 TO 99
+pkt is acked...move the window
+base  pkt  is = 596
+ack 596 received
+increase  window size  from  99 TO 100
+pkt is acked...move the window
+base  pkt  is = 597
+ack 597 received
+pkt is acked...move the window
+base  pkt  is = 598
+ack 598 received
+pkt is acked...move the window
+base  pkt  is = 599
+ack 599 received
+pkt is acked...move the window
+base  pkt  is = 600
+pkt 669 is sent
+pkt 670 is sent
+pkt 671 is sent
+pkt 672 is sent
+pkt 673 is sent
+ack 600 received
+pkt is acked...move the window
+base  pkt  is = 601
+ack 601 received
+pkt is acked...move the window
+base  pkt  is = 602
+ack 602 received
+pkt is acked...move the window
+base  pkt  is = 603
+pkt 674 is sent
+pkt 675 is sent
+ack 603 received
+pkt is acked...move the window
+base  pkt  is = 604
+pkt 676 is sent
+ack 604 received
+pkt is acked...move the window
+base  pkt  is = 605
+ack 605 received
+pkt is acked...move the window
+base  pkt  is = 606
+pkt 677 is sent
+pkt 678 is sent
+pkt 679 is sent
+pkt 680 is sent
+pkt 681 is sent
+pkt 682 is sent
+pkt 683 is sent
+pkt 684 is sent
+pkt 685 is sent
+pkt 686 is sent
+pkt 687 is sent
+pkt 688 is sent
+pkt 689 is sent
+ack 606 received
+pkt is acked...move the window
+base  pkt  is = 607
+ack 607 received
+pkt is acked...move the window
+base  pkt  is = 608
+pkt 690 is sent
+pkt 691 is sent
+pkt 692 is sent
+pkt 693 is sent
+pkt 694 is sent
+pkt 695 is sent
+pkt 696 is sent
+pkt 697 is sent
+pkt 698 is sent
+pkt 699 is sent
+pkt 700 is sent
+pkt 701 is sent
+pkt 702 is sent
+pkt 703 is sent
+pkt 704 is sent
+pkt 705 is sent
+pkt 706 is sent
+pkt 707 is sent
+TIME OUT
+Resend pkt  = 608
+TIME OUT
+Resend pkt  = 609
+TIME OUT
+Resend pkt  = 610
+TIME OUT
+Resend pkt  = 611
+TIME OUT
+Resend pkt  = 612
+TIME OUT
+Resend pkt  = 613
+TIME OUT
+Resend pkt  = 614
+TIME OUT
+Resend pkt  = 615
+TIME OUT
+Resend pkt  = 616
+TIME OUT
+Resend pkt  = 617
+TIME OUT
+Resend pkt  = 618
+TIME OUT
+Resend pkt  = 619
+TIME OUT
+Resend pkt  = 620
+TIME OUT
+Resend pkt  = 621
+TIME OUT
+Resend pkt  = 622
+TIME OUT
+Resend pkt  = 623
+TIME OUT
+Resend pkt  = 624
+TIME OUT
+Resend pkt  = 625
+TIME OUT
+Resend pkt  = 626
+TIME OUT
+Resend pkt  = 627
+TIME OUT
+Resend pkt  = 628
+TIME OUT
+Resend pkt  = 629
+TIME OUT
+Resend pkt  = 630
+TIME OUT
+Resend pkt  = 631
+ack 608 received
+pkt is acked...move the window
+base  pkt  is = 609
+ack 609 received
+pkt is acked...move the window
+base  pkt  is = 610
+ack 610 received
+pkt is acked...move the window
+base  pkt  is = 611
+ack 611 received
+pkt is acked...move the window
+base  pkt  is = 612
+ack 612 received
+pkt is acked...move the window
+base  pkt  is = 613
+ack 613 received
+pkt is acked...move the window
+base  pkt  is = 614
+ack 614 received
+pkt is acked...move the window
+base  pkt  is = 615
+ack 615 received
+pkt is acked...move the window
+base  pkt  is = 616
+ack 616 received
+pkt is acked...move the window
+base  pkt  is = 617
+ack 617 received
+pkt is acked...move the window
+base  pkt  is = 618
+ack 618 received
+pkt is acked...move the window
+base  pkt  is = 619
+ack 619 received
+pkt is acked...move the window
+base  pkt  is = 620
+ack 620 received
+pkt is acked...move the window
+base  pkt  is = 621
+ack 621 received
+pkt is acked...move the window
+base  pkt  is = 622
+ack 622 received
+pkt is acked...move the window
+base  pkt  is = 623
+pkt 708 is sent
+ack 623 received
+pkt is acked...move the window
+base  pkt  is = 624
+pkt 709 is sent
+pkt 710 is sent
+pkt 711 is sent
+pkt 712 is sent
+pkt 713 is sent
+pkt 714 is sent
+pkt 715 is sent
+pkt 716 is sent
+ack 624 received
+pkt is acked...move the window
+base  pkt  is = 625
+ack 625 received
+pkt is acked...move the window
+base  pkt  is = 626
+ack 626 received
+pkt is acked...move the window
+base  pkt  is = 627
+ack 627 received
+pkt is acked...move the window
+base  pkt  is = 628
+ack 628 received
+pkt is acked...move the window
+base  pkt  is = 629
+ack 629 received
+pkt is acked...move the window
+base  pkt  is = 630
+pkt 717 is sent
+ack 630 received
+pkt is acked...move the window
+base  pkt  is = 631
+pkt 718 is sent
+pkt 719 is sent
+ack 631 received
+pkt is acked...move the window
+base  pkt  is = 632
+pkt 720 is sent
+pkt 721 is sent
+pkt 722 is sent
+pkt 723 is sent
+pkt 724 is sent
+pkt 725 is sent
+pkt 726 is sent
+there is a pkt loss 
+
+pkt :727 is lost 
+
+pkt 727 is sent
+TIME OUT
+Resend pkt  = 632
+TIME OUT
+Resend pkt  = 633
+TIME OUT
+Resend pkt  = 634
+TIME OUT
+Resend pkt  = 635
+TIME OUT
+Resend pkt  = 636
+ack 632 received
+increase  window size  from  1 TO 2
+pkt is acked...move the window
+base  pkt  is = 633
+ack 633 received
+increase  window size  from  2 TO 4
+pkt is acked...move the window
+base  pkt  is = 634
+ack 634 received
+increase  window size  from  4 TO 8
+pkt is acked...move the window
+base  pkt  is = 635
+ack 635 received
+increase  window size  from  8 TO 16
+pkt is acked...move the window
+base  pkt  is = 636
+ack 636 received
+increase  window size  from  16 TO 32
+pkt is acked...move the window
+base  pkt  is = 637
+TIME OUT
+Resend pkt  = 637
+TIME OUT
+Resend pkt  = 638
+TIME OUT
+Resend pkt  = 639
+TIME OUT
+Resend pkt  = 640
+TIME OUT
+Resend pkt  = 641
+TIME OUT
+Resend pkt  = 642
+TIME OUT
+Resend pkt  = 643
+TIME OUT
+Resend pkt  = 644
+TIME OUT
+Resend pkt  = 645
+TIME OUT
+Resend pkt  = 646
+TIME OUT
+Resend pkt  = 647
+TIME OUT
+Resend pkt  = 648
+TIME OUT
+Resend pkt  = 649
+TIME OUT
+Resend pkt  = 650
+TIME OUT
+Resend pkt  = 651
+TIME OUT
+Resend pkt  = 652
+TIME OUT
+Resend pkt  = 653
+TIME OUT
+Resend pkt  = 654
+TIME OUT
+Resend pkt  = 655
+TIME OUT
+Resend pkt  = 656
+TIME OUT
+Resend pkt  = 657
+TIME OUT
+Resend pkt  = 658
+TIME OUT
+Resend pkt  = 659
+TIME OUT
+Resend pkt  = 660
+ack 637 received
+increase window size  from  0 TO 50
+pkt is acked...move the window
+base  pkt  is = 638
+ack 638 received
+increase  window size  from  50 TO 51
+pkt is acked...move the window
+base  pkt  is = 639
+ack 639 received
+increase  window size  from  51 TO 52
+pkt is acked...move the window
+base  pkt  is = 640
+ack 640 received
+increase  window size  from  52 TO 53
+pkt is acked...move the window
+base  pkt  is = 641
+ack 641 received
+increase  window size  from  53 TO 54
+pkt is acked...move the window
+base  pkt  is = 642
+ack 642 received
+increase  window size  from  54 TO 55
+pkt is acked...move the window
+base  pkt  is = 643
+ack 643 received
+increase  window size  from  55 TO 56
+pkt is acked...move the window
+base  pkt  is = 644
+ack 644 received
+increase  window size  from  56 TO 57
+pkt is acked...move the window
+base  pkt  is = 645
+ack 645 received
+increase  window size  from  57 TO 58
+pkt is acked...move the window
+base  pkt  is = 646
+ack 646 received
+increase  window size  from  58 TO 59
+pkt is acked...move the window
+base  pkt  is = 647
+ack 647 received
+increase  window size  from  59 TO 60
+pkt is acked...move the window
+base  pkt  is = 648
+ack 648 received
+increase  window size  from  60 TO 61
+pkt is acked...move the window
+base  pkt  is = 649
+ack 649 received
+increase  window size  from  61 TO 62
+pkt is acked...move the window
+base  pkt  is = 650
+ack 650 received
+increase  window size  from  62 TO 63
+pkt is acked...move the window
+base  pkt  is = 651
+ack 651 received
+increase  window size  from  63 TO 64
+pkt is acked...move the window
+base  pkt  is = 652
+ack 652 received
+increase  window size  from  64 TO 65
+pkt is acked...move the window
+base  pkt  is = 653
+ack 653 received
+increase  window size  from  65 TO 66
+pkt is acked...move the window
+base  pkt  is = 654
+ack 654 received
+increase  window size  from  66 TO 67
+pkt is acked...move the window
+base  pkt  is = 655
+ack 655 received
+increase  window size  from  67 TO 68
+pkt is acked...move the window
+base  pkt  is = 656
+ack 656 received
+increase  window size  from  68 TO 69
+pkt is acked...move the window
+base  pkt  is = 657
+ack 657 received
+increase  window size  from  69 TO 70
+pkt is acked...move the window
+base  pkt  is = 658
+ack 658 received
+increase  window size  from  70 TO 71
+pkt is acked...move the window
+base  pkt  is = 659
+ack 659 received
+increase  window size  from  71 TO 72
+pkt is acked...move the window
+base  pkt  is = 660
+ack 660 received
+increase  window size  from  72 TO 73
+pkt is acked...move the window
+base  pkt  is = 661
+TIME OUT
+Resend pkt  = 661
+TIME OUT
+Resend pkt  = 662
+TIME OUT
+Resend pkt  = 663
+TIME OUT
+Resend pkt  = 664
+TIME OUT
+Resend pkt  = 665
+TIME OUT
+Resend pkt  = 666
+TIME OUT
+Resend pkt  = 667
+TIME OUT
+Resend pkt  = 668
+TIME OUT
+Resend pkt  = 669
+TIME OUT
+Resend pkt  = 670
+TIME OUT
+Resend pkt  = 671
+TIME OUT
+Resend pkt  = 672
+TIME OUT
+Resend pkt  = 673
+TIME OUT
+Resend pkt  = 674
+TIME OUT
+Resend pkt  = 675
+TIME OUT
+Resend pkt  = 676
+TIME OUT
+Resend pkt  = 677
+TIME OUT
+Resend pkt  = 678
+TIME OUT
+Resend pkt  = 679
+TIME OUT
+Resend pkt  = 680
+TIME OUT
+Resend pkt  = 681
+TIME OUT
+Resend pkt  = 682
+TIME OUT
+Resend pkt  = 683
+TIME OUT
+Resend pkt  = 684
+TIME OUT
+Resend pkt  = 685
+TIME OUT
+Resend pkt  = 686
+TIME OUT
+Resend pkt  = 687
+TIME OUT
+Resend pkt  = 688
+TIME OUT
+Resend pkt  = 689
+TIME OUT
+Resend pkt  = 690
+pkt 728 is sent
+pkt 729 is sent
+pkt 730 is sent
+pkt 731 is sent
+pkt 732 is sent
+pkt 733 is sent
+ack 661 received
+increase  window size  from  73 TO 74
+pkt is acked...move the window
+base  pkt  is = 662
+ack 662 received
+increase  window size  from  74 TO 75
+pkt is acked...move the window
+base  pkt  is = 663
+ack 663 received
+increase  window size  from  75 TO 76
+pkt is acked...move the window
+base  pkt  is = 664
+ack 664 received
+increase  window size  from  76 TO 77
+pkt is acked...move the window
+base  pkt  is = 665
+ack 665 received
+increase  window size  from  77 TO 78
+pkt is acked...move the window
+base  pkt  is = 666
+ack 666 received
+increase  window size  from  78 TO 79
+pkt is acked...move the window
+base  pkt  is = 667
+ack 667 received
+increase  window size  from  79 TO 80
+pkt is acked...move the window
+base  pkt  is = 668
+ack 668 received
+increase  window size  from  80 TO 81
+pkt is acked...move the window
+base  pkt  is = 669
+ack 669 received
+increase  window size  from  81 TO 82
+pkt is acked...move the window
+base  pkt  is = 670
+ack 670 received
+increase  window size  from  82 TO 83
+pkt is acked...move the window
+base  pkt  is = 671
+ack 671 received
+increase  window size  from  83 TO 84
+pkt is acked...move the window
+base  pkt  is = 672
+ack 672 received
+increase  window size  from  84 TO 85
+pkt is acked...move the window
+base  pkt  is = 673
+ack 673 received
+increase  window size  from  85 TO 86
+pkt is acked...move the window
+base  pkt  is = 674
+ack 674 received
+increase  window size  from  86 TO 87
+pkt is acked...move the window
+base  pkt  is = 675
+ack 675 received
+increase  window size  from  87 TO 88
+pkt is acked...move the window
+base  pkt  is = 676
+ack 676 received
+increase  window size  from  88 TO 89
+pkt is acked...move the window
+base  pkt  is = 677
+ack 677 received
+increase  window size  from  89 TO 90
+pkt is acked...move the window
+base  pkt  is = 678
+ack 678 received
+increase  window size  from  90 TO 91
+pkt is acked...move the window
+base  pkt  is = 679
+ack 679 received
+increase  window size  from  91 TO 92
+pkt is acked...move the window
+base  pkt  is = 680
+ack 680 received
+increase  window size  from  92 TO 93
+pkt is acked...move the window
+base  pkt  is = 681
+ack 681 received
+increase  window size  from  93 TO 94
+pkt is acked...move the window
+base  pkt  is = 682
+ack 682 received
+increase  window size  from  94 TO 95
+pkt is acked...move the window
+base  pkt  is = 683
+ack 683 received
+increase  window size  from  95 TO 96
+pkt is acked...move the window
+base  pkt  is = 684
+ack 684 received
+increase  window size  from  96 TO 97
+pkt is acked...move the window
+base  pkt  is = 685
+ack 685 received
+increase  window size  from  97 TO 98
+pkt is acked...move the window
+base  pkt  is = 686
+ack 686 received
+increase  window size  from  98 TO 99
+pkt is acked...move the window
+base  pkt  is = 687
+pkt 734 is sent
+ack 687 received
+increase  window size  from  99 TO 100
+pkt is acked...move the window
+base  pkt  is = 688
+pkt 735 is sent
+pkt 736 is sent
+pkt 737 is sent
+pkt 738 is sent
+pkt 739 is sent
+pkt 740 is sent
+pkt 741 is sent
+pkt 742 is sent
+pkt 743 is sent
+pkt 744 is sent
+pkt 745 is sent
+pkt 746 is sent
+pkt 747 is sent
+pkt 748 is sent
+pkt 749 is sent
+pkt 750 is sent
+pkt 751 is sent
+pkt 752 is sent
+pkt 753 is sent
+pkt 754 is sent
+pkt 755 is sent
+pkt 756 is sent
+pkt 757 is sent
+pkt 758 is sent
+pkt 759 is sent
+pkt 760 is sent
+pkt 761 is sent
+pkt 762 is sent
+pkt 763 is sent
+pkt 764 is sent
+pkt 765 is sent
+pkt 766 is sent
+pkt 767 is sent
+pkt 768 is sent
+pkt 769 is sent
+pkt 770 is sent
+pkt 771 is sent
+pkt 772 is sent
+pkt 773 is sent
+pkt 774 is sent
+pkt 775 is sent
+pkt 776 is sent
+pkt 777 is sent
+pkt 778 is sent
+pkt 779 is sent
+pkt 780 is sent
+pkt 781 is sent
+pkt 782 is sent
+pkt 783 is sent
+pkt 784 is sent
+pkt 785 is sent
+pkt 786 is sent
+pkt 787 is sent
+TIME OUT
+Resend pkt  = 691
+TIME OUT
+Resend pkt  = 692
+ack 688 received
+pkt is acked...move the window
+base  pkt  is = 689
+ack 689 received
+pkt is acked...move the window
+base  pkt  is = 690
+ack 690 received
+pkt is acked...move the window
+base  pkt  is = 691
+pkt 788 is sent
+pkt 789 is sent
+pkt 790 is sent
+ack 691 received
+pkt is acked...move the window
+base  pkt  is = 692
+TIME OUT
+Resend pkt  = 693
+TIME OUT
+Resend pkt  = 694
+TIME OUT
+Resend pkt  = 695
+TIME OUT
+Resend pkt  = 696
+TIME OUT
+Resend pkt  = 697
+TIME OUT
+Resend pkt  = 698
+TIME OUT
+Resend pkt  = 699
+TIME OUT
+Resend pkt  = 700
+TIME OUT
+Resend pkt  = 701
+TIME OUT
+Resend pkt  = 702
+TIME OUT
+Resend pkt  = 703
+TIME OUT
+Resend pkt  = 704
+TIME OUT
+Resend pkt  = 705
+TIME OUT
+Resend pkt  = 706
+TIME OUT
+Resend pkt  = 707
+ack 692 received
+pkt is acked...move the window
+base  pkt  is = 693
+ack 693 received
+pkt is acked...move the window
+base  pkt  is = 694
+ack 694 received
+pkt is acked...move the window
+base  pkt  is = 695
+ack 695 received
+pkt is acked...move the window
+base  pkt  is = 696
+ack 696 received
+pkt is acked...move the window
+base  pkt  is = 697
+ack 697 received
+pkt is acked...move the window
+base  pkt  is = 698
+ack 698 received
+pkt is acked...move the window
+base  pkt  is = 699
+ack 699 received
+pkt is acked...move the window
+base  pkt  is = 700
+ack 700 received
+pkt is acked...move the window
+base  pkt  is = 701
+ack 701 received
+pkt is acked...move the window
+base  pkt  is = 702
+ack 702 received
+pkt is acked...move the window
+base  pkt  is = 703
+ack 703 received
+pkt is acked...move the window
+base  pkt  is = 704
+ack 704 received
+pkt is acked...move the window
+base  pkt  is = 705
+ack 705 received
+pkt is acked...move the window
+base  pkt  is = 706
+ack 706 received
+pkt is acked...move the window
+base  pkt  is = 707
+ack 707 received
+pkt is acked...move the window
+base  pkt  is = 708
+pkt 791 is sent
+pkt 792 is sent
+pkt 793 is sent
+pkt 794 is sent
+pkt 795 is sent
+pkt 796 is sent
+pkt 797 is sent
+pkt 798 is sent
+pkt 799 is sent
+pkt 800 is sent
+pkt 801 is sent
+pkt 802 is sent
+pkt 803 is sent
+pkt 804 is sent
+pkt 805 is sent
+pkt 806 is sent
+pkt 807 is sent
+TIME OUT
+Resend pkt  = 708
+ack 708 received
+pkt is acked...move the window
+base  pkt  is = 709
+pkt 808 is sent
+TIME OUT
+Resend pkt  = 709
+TIME OUT
+Resend pkt  = 710
+TIME OUT
+Resend pkt  = 711
+TIME OUT
+Resend pkt  = 712
+TIME OUT
+Resend pkt  = 713
+TIME OUT
+Resend pkt  = 714
+TIME OUT
+Resend pkt  = 715
+TIME OUT
+Resend pkt  = 716
+TIME OUT
+Resend pkt  = 717
+TIME OUT
+Resend pkt  = 718
+TIME OUT
+Resend pkt  = 719
+TIME OUT
+Resend pkt  = 720
+TIME OUT
+Resend pkt  = 721
+TIME OUT
+Resend pkt  = 722
+ack 709 received
+pkt is acked...move the window
+base  pkt  is = 710
+ack 710 received
+pkt is acked...move the window
+base  pkt  is = 711
+ack 711 received
+pkt is acked...move the window
+base  pkt  is = 712
+ack 712 received
+pkt is acked...move the window
+base  pkt  is = 713
+ack 713 received
+pkt is acked...move the window
+base  pkt  is = 714
+ack 714 received
+pkt is acked...move the window
+base  pkt  is = 715
+ack 715 received
+pkt is acked...move the window
+base  pkt  is = 716
+ack 716 received
+pkt is acked...move the window
+base  pkt  is = 717
+ack 717 received
+pkt is acked...move the window
+base  pkt  is = 718
+ack 718 received
+pkt is acked...move the window
+base  pkt  is = 719
+ack 719 received
+pkt is acked...move the window
+base  pkt  is = 720
+ack 720 received
+pkt is acked...move the window
+base  pkt  is = 721
+ack 721 received
+pkt is acked...move the window
+base  pkt  is = 722
+ack 722 received
+pkt is acked...move the window
+base  pkt  is = 723
+TIME OUT
+Resend pkt  = 723
+TIME OUT
+Resend pkt  = 724
+TIME OUT
+Resend pkt  = 725
+TIME OUT
+Resend pkt  = 726
+TIME OUT
+Resend pkt  = 727
+pkt 809 is sent
+pkt 810 is sent
+pkt 811 is sent
+pkt 812 is sent
+pkt 813 is sent
+pkt 814 is sent
+pkt 815 is sent
+pkt 816 is sent
+pkt 817 is sent
+there is a pkt loss 
+
+pkt :818 is lost 
+
+pkt 818 is sent
+ack 723 received
+increase  window size  from  1 TO 2
+pkt is acked...move the window
+base  pkt  is = 724
+ack 724 received
+increase  window size  from  2 TO 4
+pkt is acked...move the window
+base  pkt  is = 725
+ack 725 received
+increase  window size  from  4 TO 8
+pkt is acked...move the window
+base  pkt  is = 726
+ack 726 received
+increase  window size  from  8 TO 16
+pkt is acked...move the window
+base  pkt  is = 727
+ack 727 received
+increase  window size  from  16 TO 32
+pkt is acked...move the window
+base  pkt  is = 728
+TIME OUT
+Resend pkt  = 728
+TIME OUT
+Resend pkt  = 729
+TIME OUT
+Resend pkt  = 730
+TIME OUT
+Resend pkt  = 731
+TIME OUT
+Resend pkt  = 732
+TIME OUT
+Resend pkt  = 733
+TIME OUT
+Resend pkt  = 734
+TIME OUT
+Resend pkt  = 735
+TIME OUT
+Resend pkt  = 736
+TIME OUT
+Resend pkt  = 737
+TIME OUT
+Resend pkt  = 738
+TIME OUT
+Resend pkt  = 739
+TIME OUT
+Resend pkt  = 740
+TIME OUT
+Resend pkt  = 741
+TIME OUT
+Resend pkt  = 742
+TIME OUT
+Resend pkt  = 743
+TIME OUT
+Resend pkt  = 744
+TIME OUT
+Resend pkt  = 745
+TIME OUT
+Resend pkt  = 746
+TIME OUT
+Resend pkt  = 747
+TIME OUT
+Resend pkt  = 748
+TIME OUT
+Resend pkt  = 749
+TIME OUT
+Resend pkt  = 750
+TIME OUT
+Resend pkt  = 751
+TIME OUT
+Resend pkt  = 752
+TIME OUT
+Resend pkt  = 753
+TIME OUT
+Resend pkt  = 754
+TIME OUT
+Resend pkt  = 755
+TIME OUT
+Resend pkt  = 756
+TIME OUT
+Resend pkt  = 757
+TIME OUT
+Resend pkt  = 758
+TIME OUT
+Resend pkt  = 759
+TIME OUT
+Resend pkt  = 760
+TIME OUT
+Resend pkt  = 761
+TIME OUT
+Resend pkt  = 762
+TIME OUT
+Resend pkt  = 763
+TIME OUT
+Resend pkt  = 764
+TIME OUT
+Resend pkt  = 765
+TIME OUT
+Resend pkt  = 766
+TIME OUT
+Resend pkt  = 767
+TIME OUT
+Resend pkt  = 768
+TIME OUT
+Resend pkt  = 769
+TIME OUT
+Resend pkt  = 770
+TIME OUT
+Resend pkt  = 771
+TIME OUT
+Resend pkt  = 772
+TIME OUT
+Resend pkt  = 773
+TIME OUT
+Resend pkt  = 774
+TIME OUT
+Resend pkt  = 775
+TIME OUT
+Resend pkt  = 776
+TIME OUT
+Resend pkt  = 777
+TIME OUT
+Resend pkt  = 778
+TIME OUT
+Resend pkt  = 779
+TIME OUT
+Resend pkt  = 780
+TIME OUT
+Resend pkt  = 781
+TIME OUT
+Resend pkt  = 782
+TIME OUT
+Resend pkt  = 783
+TIME OUT
+Resend pkt  = 784
+TIME OUT
+Resend pkt  = 785
+TIME OUT
+Resend pkt  = 786
+TIME OUT
+Resend pkt  = 787
+TIME OUT
+Resend pkt  = 788
+TIME OUT
+Resend pkt  = 789
+TIME OUT
+Resend pkt  = 790
+ack 728 received
+increase window size  from  0 TO 50
+pkt is acked...move the window
+base  pkt  is = 729
+ack 729 received
+increase  window size  from  50 TO 51
+pkt is acked...move the window
+base  pkt  is = 730
+ack 730 received
+increase  window size  from  51 TO 52
+pkt is acked...move the window
+base  pkt  is = 731
+ack 731 received
+increase  window size  from  52 TO 53
+pkt is acked...move the window
+base  pkt  is = 732
+ack 732 received
+increase  window size  from  53 TO 54
+pkt is acked...move the window
+base  pkt  is = 733
+ack 733 received
+increase  window size  from  54 TO 55
+pkt is acked...move the window
+base  pkt  is = 734
+ack 734 received
+increase  window size  from  55 TO 56
+pkt is acked...move the window
+base  pkt  is = 735
+ack 735 received
+increase  window size  from  56 TO 57
+pkt is acked...move the window
+base  pkt  is = 736
+ack 736 received
+increase  window size  from  57 TO 58
+pkt is acked...move the window
+base  pkt  is = 737
+ack 737 received
+increase  window size  from  58 TO 59
+pkt is acked...move the window
+base  pkt  is = 738
+ack 738 received
+increase  window size  from  59 TO 60
+pkt is acked...move the window
+base  pkt  is = 739
+ack 739 received
+increase  window size  from  60 TO 61
+pkt is acked...move the window
+base  pkt  is = 740
+ack 740 received
+increase  window size  from  61 TO 62
+pkt is acked...move the window
+base  pkt  is = 741
+ack 741 received
+increase  window size  from  62 TO 63
+pkt is acked...move the window
+base  pkt  is = 742
+ack 742 received
+increase  window size  from  63 TO 64
+pkt is acked...move the window
+base  pkt  is = 743
+ack 743 received
+increase  window size  from  64 TO 65
+pkt is acked...move the window
+base  pkt  is = 744
+ack 744 received
+increase  window size  from  65 TO 66
+pkt is acked...move the window
+base  pkt  is = 745
+ack 745 received
+increase  window size  from  66 TO 67
+pkt is acked...move the window
+base  pkt  is = 746
+ack 746 received
+increase  window size  from  67 TO 68
+pkt is acked...move the window
+base  pkt  is = 747
+ack 747 received
+increase  window size  from  68 TO 69
+pkt is acked...move the window
+base  pkt  is = 748
+ack 748 received
+increase  window size  from  69 TO 70
+pkt is acked...move the window
+base  pkt  is = 749
+ack 749 received
+increase  window size  from  70 TO 71
+pkt is acked...move the window
+base  pkt  is = 750
+ack 750 received
+increase  window size  from  71 TO 72
+pkt is acked...move the window
+base  pkt  is = 751
+ack 751 received
+increase  window size  from  72 TO 73
+pkt is acked...move the window
+base  pkt  is = 752
+ack 752 received
+increase  window size  from  73 TO 74
+pkt is acked...move the window
+base  pkt  is = 753
+ack 753 received
+increase  window size  from  74 TO 75
+pkt is acked...move the window
+base  pkt  is = 754
+pkt 819 is sent
+pkt 820 is sent
+pkt 821 is sent
+pkt 822 is sent
+pkt 823 is sent
+pkt 824 is sent
+pkt 825 is sent
+pkt 826 is sent
+TIME OUT
+Resend pkt  = 791
+TIME OUT
+Resend pkt  = 792
+TIME OUT
+Resend pkt  = 793
+TIME OUT
+Resend pkt  = 794
+TIME OUT
+Resend pkt  = 795
+TIME OUT
+Resend pkt  = 796
+TIME OUT
+Resend pkt  = 797
+TIME OUT
+Resend pkt  = 798
+TIME OUT
+Resend pkt  = 799
+TIME OUT
+Resend pkt  = 800
+TIME OUT
+Resend pkt  = 801
+TIME OUT
+Resend pkt  = 802
+TIME OUT
+Resend pkt  = 803
+TIME OUT
+Resend pkt  = 804
+TIME OUT
+Resend pkt  = 805
+TIME OUT
+Resend pkt  = 806
+TIME OUT
+Resend pkt  = 807
+pkt 827 is sent
+pkt 828 is sent
+ack 754 received
+increase  window size  from  75 TO 76
+pkt is acked...move the window
+base  pkt  is = 755
+ack 755 received
+increase  window size  from  76 TO 77
+pkt is acked...move the window
+base  pkt  is = 756
+ack 756 received
+increase  window size  from  77 TO 78
+pkt is acked...move the window
+base  pkt  is = 757
+ack 757 received
+increase  window size  from  78 TO 79
+pkt is acked...move the window
+base  pkt  is = 758
+ack 758 received
+increase  window size  from  79 TO 80
+pkt is acked...move the window
+base  pkt  is = 759
+ack 759 received
+increase  window size  from  80 TO 81
+pkt is acked...move the window
+base  pkt  is = 760
+ack 760 received
+increase  window size  from  81 TO 82
+pkt is acked...move the window
+base  pkt  is = 761
+ack 761 received
+increase  window size  from  82 TO 83
+pkt is acked...move the window
+base  pkt  is = 762
+ack 762 received
+increase  window size  from  83 TO 84
+pkt is acked...move the window
+base  pkt  is = 763
+ack 763 received
+increase  window size  from  84 TO 85
+pkt is acked...move the window
+base  pkt  is = 764
+ack 764 received
+increase  window size  from  85 TO 86
+pkt is acked...move the window
+base  pkt  is = 765
+ack 765 received
+increase  window size  from  86 TO 87
+pkt is acked...move the window
+base  pkt  is = 766
+ack 766 received
+increase  window size  from  87 TO 88
+pkt is acked...move the window
+base  pkt  is = 767
+ack 767 received
+increase  window size  from  88 TO 89
+pkt is acked...move the window
+base  pkt  is = 768
+ack 768 received
+increase  window size  from  89 TO 90
+pkt is acked...move the window
+base  pkt  is = 769
+ack 769 received
+increase  window size  from  90 TO 91
+pkt is acked...move the window
+base  pkt  is = 770
+pkt 829 is sent
+pkt 830 is sent
+pkt 831 is sent
+pkt 832 is sent
+pkt 833 is sent
+pkt 834 is sent
+pkt 835 is sent
+pkt 836 is sent
+pkt 837 is sent
+pkt 838 is sent
+pkt 839 is sent
+pkt 840 is sent
+pkt 841 is sent
+pkt 842 is sent
+pkt 843 is sent
+TIME OUT
+Resend pkt  = 808
+ack 770 received
+increase  window size  from  91 TO 92
+pkt is acked...move the window
+base  pkt  is = 771
+ack 771 received
+increase  window size  from  92 TO 93
+pkt is acked...move the window
+base  pkt  is = 772
+ack 772 received
+increase  window size  from  93 TO 94
+pkt is acked...move the window
+base  pkt  is = 773
+ack 773 received
+increase  window size  from  94 TO 95
+pkt is acked...move the window
+base  pkt  is = 774
+ack 774 received
+increase  window size  from  95 TO 96
+pkt is acked...move the window
+base  pkt  is = 775
+ack 775 received
+increase  window size  from  96 TO 97
+pkt is acked...move the window
+base  pkt  is = 776
+ack 776 received
+increase  window size  from  97 TO 98
+pkt is acked...move the window
+base  pkt  is = 777
+ack 777 received
+increase  window size  from  98 TO 99
+pkt is acked...move the window
+base  pkt  is = 778
+ack 778 received
+increase  window size  from  99 TO 100
+pkt is acked...move the window
+base  pkt  is = 779
+ack 779 received
+pkt is acked...move the window
+base  pkt  is = 780
+ack 780 received
+pkt is acked...move the window
+base  pkt  is = 781
+ack 781 received
+pkt is acked...move the window
+base  pkt  is = 782
+ack 782 received
+pkt is acked...move the window
+base  pkt  is = 783
+ack 783 received
+pkt is acked...move the window
+base  pkt  is = 784
+ack 784 received
+pkt is acked...move the window
+base  pkt  is = 785
+ack 785 received
+pkt is acked...move the window
+base  pkt  is = 786
+ack 786 received
+pkt is acked...move the window
+base  pkt  is = 787
+ack 787 received
+pkt is acked...move the window
+base  pkt  is = 788
+ack 788 received
+pkt is acked...move the window
+base  pkt  is = 789
+ack 789 received
+pkt is acked...move the window
+base  pkt  is = 790
+ack 790 received
+pkt is acked...move the window
+base  pkt  is = 791
+ack 791 received
+pkt is acked...move the window
+base  pkt  is = 792
+ack 792 received
+pkt is acked...move the window
+base  pkt  is = 793
+ack 793 received
+pkt is acked...move the window
+base  pkt  is = 794
+pkt 844 is sent
+pkt 845 is sent
+pkt 846 is sent
+pkt 847 is sent
+pkt 848 is sent
+pkt 849 is sent
+pkt 850 is sent
+pkt 851 is sent
+pkt 852 is sent
+pkt 853 is sent
+pkt 854 is sent
+pkt 855 is sent
+pkt 856 is sent
+pkt 857 is sent
+pkt 858 is sent
+pkt 859 is sent
+pkt 860 is sent
+pkt 861 is sent
+pkt 862 is sent
+pkt 863 is sent
+pkt 864 is sent
+pkt 865 is sent
+pkt 866 is sent
+pkt 867 is sent
+pkt 868 is sent
+pkt 869 is sent
+pkt 870 is sent
+pkt 871 is sent
+pkt 872 is sent
+pkt 873 is sent
+pkt 874 is sent
+pkt 875 is sent
+pkt 876 is sent
+pkt 877 is sent
+pkt 878 is sent
+pkt 879 is sent
+pkt 880 is sent
+pkt 881 is sent
+pkt 882 is sent
+pkt 883 is sent
+pkt 884 is sent
+pkt 885 is sent
+ack 794 received
+pkt is acked...move the window
+base  pkt  is = 795
+ack 795 received
+pkt is acked...move the window
+base  pkt  is = 796
+ack 796 received
+pkt is acked...move the window
+base  pkt  is = 797
+ack 797 received
+pkt is acked...move the window
+base  pkt  is = 798
+ack 798 received
+pkt is acked...move the window
+base  pkt  is = 799
+ack 799 received
+pkt is acked...move the window
+base  pkt  is = 800
+ack 800 received
+pkt is acked...move the window
+base  pkt  is = 801
+ack 801 received
+pkt is acked...move the window
+base  pkt  is = 802
+ack 802 received
+pkt is acked...move the window
+base  pkt  is = 803
+ack 803 received
+pkt is acked...move the window
+base  pkt  is = 804
+ack 804 received
+pkt is acked...move the window
+base  pkt  is = 805
+pkt 886 is sent
+pkt 887 is sent
+ack 805 received
+pkt is acked...move the window
+base  pkt  is = 806
+ack 806 received
+pkt is acked...move the window
+base  pkt  is = 807
+ack 807 received
+pkt is acked...move the window
+base  pkt  is = 808
+ack 808 received
+pkt is acked...move the window
+base  pkt  is = 809
+pkt 888 is sent
+pkt 889 is sent
+pkt 890 is sent
+pkt 891 is sent
+pkt 892 is sent
+pkt 893 is sent
+pkt 894 is sent
+pkt 895 is sent
+pkt 896 is sent
+pkt 897 is sent
+pkt 898 is sent
+pkt 899 is sent
+pkt 900 is sent
+pkt 901 is sent
+pkt 902 is sent
+pkt 903 is sent
+pkt 904 is sent
+pkt 905 is sent
+pkt 906 is sent
+pkt 907 is sent
+pkt 908 is sent
+TIME OUT
+Resend pkt  = 809
+TIME OUT
+Resend pkt  = 810
+TIME OUT
+Resend pkt  = 811
+TIME OUT
+Resend pkt  = 812
+TIME OUT
+Resend pkt  = 813
+TIME OUT
+Resend pkt  = 814
+TIME OUT
+Resend pkt  = 815
+TIME OUT
+Resend pkt  = 816
+TIME OUT
+Resend pkt  = 817
+TIME OUT
+Resend pkt  = 818
+ack 809 received
+pkt is acked...move the window
+base  pkt  is = 810
+ack 810 received
+pkt is acked...move the window
+base  pkt  is = 811
+there is a pkt loss 
+
+pkt :909 is lost 
+
+pkt 909 is sent
+ack 811 received
+increase  window size  from  1 TO 2
+pkt is acked...move the window
+base  pkt  is = 812
+ack 812 received
+increase  window size  from  2 TO 4
+pkt is acked...move the window
+base  pkt  is = 813
+ack 813 received
+increase  window size  from  4 TO 8
+pkt is acked...move the window
+base  pkt  is = 814
+ack 814 received
+increase  window size  from  8 TO 16
+pkt is acked...move the window
+base  pkt  is = 815
+ack 815 received
+increase  window size  from  16 TO 32
+pkt is acked...move the window
+base  pkt  is = 816
+ack 816 received
+increase window size  from  0 TO 50
+pkt is acked...move the window
+base  pkt  is = 817
+ack 817 received
+increase  window size  from  50 TO 51
+pkt is acked...move the window
+base  pkt  is = 818
+ack 818 received
+increase  window size  from  51 TO 52
+pkt is acked...move the window
+base  pkt  is = 819
+TIME OUT
+Resend pkt  = 819
+TIME OUT
+Resend pkt  = 820
+TIME OUT
+Resend pkt  = 821
+TIME OUT
+Resend pkt  = 822
+TIME OUT
+Resend pkt  = 823
+TIME OUT
+Resend pkt  = 824
+TIME OUT
+Resend pkt  = 825
+TIME OUT
+Resend pkt  = 826
+ack 819 received
+increase  window size  from  52 TO 53
+pkt is acked...move the window
+base  pkt  is = 820
+ack 820 received
+increase  window size  from  53 TO 54
+pkt is acked...move the window
+base  pkt  is = 821
+ack 821 received
+increase  window size  from  54 TO 55
+pkt is acked...move the window
+base  pkt  is = 822
+ack 822 received
+increase  window size  from  55 TO 56
+pkt is acked...move the window
+base  pkt  is = 823
+ack 823 received
+increase  window size  from  56 TO 57
+pkt is acked...move the window
+base  pkt  is = 824
+ack 824 received
+increase  window size  from  57 TO 58
+pkt is acked...move the window
+base  pkt  is = 825
+ack 825 received
+increase  window size  from  58 TO 59
+pkt is acked...move the window
+base  pkt  is = 826
+ack 826 received
+increase  window size  from  59 TO 60
+pkt is acked...move the window
+base  pkt  is = 827
+TIME OUT
+Resend pkt  = 827
+TIME OUT
+Resend pkt  = 828
+TIME OUT
+Resend pkt  = 829
+TIME OUT
+Resend pkt  = 830
+TIME OUT
+Resend pkt  = 831
+TIME OUT
+Resend pkt  = 832
+TIME OUT
+Resend pkt  = 833
+TIME OUT
+Resend pkt  = 834
+TIME OUT
+Resend pkt  = 835
+TIME OUT
+Resend pkt  = 836
+TIME OUT
+Resend pkt  = 837
+TIME OUT
+Resend pkt  = 838
+TIME OUT
+Resend pkt  = 839
+TIME OUT
+Resend pkt  = 840
+TIME OUT
+Resend pkt  = 841
+TIME OUT
+Resend pkt  = 842
+TIME OUT
+Resend pkt  = 843
+TIME OUT
+Resend pkt  = 844
+TIME OUT
+Resend pkt  = 845
+TIME OUT
+Resend pkt  = 846
+TIME OUT
+Resend pkt  = 847
+TIME OUT
+Resend pkt  = 848
+TIME OUT
+Resend pkt  = 849
+TIME OUT
+Resend pkt  = 850
+TIME OUT
+Resend pkt  = 851
+TIME OUT
+Resend pkt  = 852
+TIME OUT
+Resend pkt  = 853
+TIME OUT
+Resend pkt  = 854
+TIME OUT
+Resend pkt  = 855
+TIME OUT
+Resend pkt  = 856
+TIME OUT
+Resend pkt  = 857
+TIME OUT
+Resend pkt  = 858
+TIME OUT
+Resend pkt  = 859
+TIME OUT
+Resend pkt  = 860
+TIME OUT
+Resend pkt  = 861
+TIME OUT
+Resend pkt  = 862
+TIME OUT
+Resend pkt  = 863
+TIME OUT
+Resend pkt  = 864
+TIME OUT
+Resend pkt  = 865
+TIME OUT
+Resend pkt  = 866
+TIME OUT
+Resend pkt  = 867
+TIME OUT
+Resend pkt  = 868
+TIME OUT
+Resend pkt  = 869
+TIME OUT
+Resend pkt  = 870
+TIME OUT
+Resend pkt  = 871
+TIME OUT
+Resend pkt  = 872
+TIME OUT
+Resend pkt  = 873
+TIME OUT
+Resend pkt  = 874
+TIME OUT
+Resend pkt  = 875
+TIME OUT
+Resend pkt  = 876
+TIME OUT
+Resend pkt  = 877
+TIME OUT
+Resend pkt  = 878
+TIME OUT
+Resend pkt  = 879
+TIME OUT
+Resend pkt  = 880
+TIME OUT
+Resend pkt  = 881
+TIME OUT
+Resend pkt  = 882
+TIME OUT
+Resend pkt  = 883
+TIME OUT
+Resend pkt  = 884
+TIME OUT
+Resend pkt  = 885
+TIME OUT
+Resend pkt  = 886
+TIME OUT
+Resend pkt  = 887
+TIME OUT
+Resend pkt  = 888
+TIME OUT
+Resend pkt  = 889
+TIME OUT
+Resend pkt  = 890
+TIME OUT
+Resend pkt  = 891
+TIME OUT
+Resend pkt  = 892
+TIME OUT
+Resend pkt  = 893
+TIME OUT
+Resend pkt  = 894
+TIME OUT
+Resend pkt  = 895
+TIME OUT
+Resend pkt  = 896
+TIME OUT
+Resend pkt  = 897
+TIME OUT
+Resend pkt  = 898
+TIME OUT
+Resend pkt  = 899
+TIME OUT
+Resend pkt  = 900
+TIME OUT
+Resend pkt  = 901
+TIME OUT
+Resend pkt  = 902
+TIME OUT
+Resend pkt  = 903
+TIME OUT
+Resend pkt  = 904
+TIME OUT
+Resend pkt  = 905
+TIME OUT
+Resend pkt  = 906
+TIME OUT
+Resend pkt  = 907
+TIME OUT
+Resend pkt  = 908
+ack 827 received
+increase  window size  from  60 TO 61
+pkt is acked...move the window
+base  pkt  is = 828
+ack 828 received
+increase  window size  from  61 TO 62
+pkt is acked...move the window
+base  pkt  is = 829
+ack 829 received
+increase  window size  from  62 TO 63
+pkt is acked...move the window
+base  pkt  is = 830
+ack 830 received
+increase  window size  from  63 TO 64
+pkt is acked...move the window
+base  pkt  is = 831
+ack 831 received
+increase  window size  from  64 TO 65
+pkt is acked...move the window
+base  pkt  is = 832
+ack 832 received
+increase  window size  from  65 TO 66
+pkt is acked...move the window
+base  pkt  is = 833
+ack 833 received
+increase  window size  from  66 TO 67
+pkt is acked...move the window
+base  pkt  is = 834
+ack 834 received
+increase  window size  from  67 TO 68
+pkt is acked...move the window
+base  pkt  is = 835
+ack 835 received
+increase  window size  from  68 TO 69
+pkt is acked...move the window
+base  pkt  is = 836
+ack 836 received
+increase  window size  from  69 TO 70
+pkt is acked...move the window
+base  pkt  is = 837
+ack 837 received
+increase  window size  from  70 TO 71
+pkt is acked...move the window
+base  pkt  is = 838
+ack 838 received
+increase  window size  from  71 TO 72
+pkt is acked...move the window
+base  pkt  is = 839
+ack 839 received
+increase  window size  from  72 TO 73
+pkt is acked...move the window
+base  pkt  is = 840
+ack 840 received
+increase  window size  from  73 TO 74
+pkt is acked...move the window
+base  pkt  is = 841
+ack 841 received
+increase  window size  from  74 TO 75
+pkt is acked...move the window
+base  pkt  is = 842
+ack 842 received
+increase  window size  from  75 TO 76
+pkt is acked...move the window
+base  pkt  is = 843
+ack 843 received
+increase  window size  from  76 TO 77
+pkt is acked...move the window
+base  pkt  is = 844
+ack 844 received
+increase  window size  from  77 TO 78
+pkt is acked...move the window
+base  pkt  is = 845
+ack 845 received
+increase  window size  from  78 TO 79
+pkt is acked...move the window
+base  pkt  is = 846
+ack 846 received
+increase  window size  from  79 TO 80
+pkt is acked...move the window
+base  pkt  is = 847
+ack 847 received
+increase  window size  from  80 TO 81
+pkt is acked...move the window
+base  pkt  is = 848
+ack 848 received
+increase  window size  from  81 TO 82
+pkt is acked...move the window
+base  pkt  is = 849
+ack 849 received
+increase  window size  from  82 TO 83
+pkt is acked...move the window
+base  pkt  is = 850
+ack 850 received
+increase  window size  from  83 TO 84
+pkt is acked...move the window
+base  pkt  is = 851
+ack 851 received
+increase  window size  from  84 TO 85
+pkt is acked...move the window
+base  pkt  is = 852
+pkt 910 is sent
+pkt 911 is sent
+pkt 912 is sent
+pkt 913 is sent
+pkt 914 is sent
+pkt 915 is sent
+pkt 916 is sent
+pkt 917 is sent
+pkt 918 is sent
+pkt 919 is sent
+pkt 920 is sent
+pkt 921 is sent
+pkt 922 is sent
+pkt 923 is sent
+pkt 924 is sent
+pkt 925 is sent
+pkt 926 is sent
+pkt 927 is sent
+ack 852 received
+increase  window size  from  85 TO 86
+pkt is acked...move the window
+base  pkt  is = 853
+pkt 928 is sent
+pkt 929 is sent
+pkt 930 is sent
+pkt 931 is sent
+pkt 932 is sent
+pkt 933 is sent
+pkt 934 is sent
+pkt 935 is sent
+pkt 936 is sent
+pkt 937 is sent
+pkt 938 is sent
+ack 853 received
+increase  window size  from  86 TO 87
+pkt is acked...move the window
+base  pkt  is = 854
+pkt 939 is sent
+pkt 940 is sent
+TIME OUT
+Resend pkt  = 909
+ack 854 received
+increase  window size  from  87 TO 88
+pkt is acked...move the window
+base  pkt  is = 855
+ack 855 received
+increase  window size  from  88 TO 89
+pkt is acked...move the window
+base  pkt  is = 856
+ack 856 received
+increase  window size  from  89 TO 90
+pkt is acked...move the window
+base  pkt  is = 857
+ack 857 received
+increase  window size  from  90 TO 91
+pkt is acked...move the window
+base  pkt  is = 858
+pkt 941 is sent
+pkt 942 is sent
+pkt 943 is sent
+pkt 944 is sent
+pkt 945 is sent
+pkt 946 is sent
+pkt 947 is sent
+pkt 948 is sent
+ack 858 received
+increase  window size  from  91 TO 92
+pkt is acked...move the window
+base  pkt  is = 859
+ack 859 received
+increase  window size  from  92 TO 93
+pkt is acked...move the window
+base  pkt  is = 860
+ack 860 received
+increase  window size  from  93 TO 94
+pkt is acked...move the window
+base  pkt  is = 861
+ack 861 received
+increase  window size  from  94 TO 95
+pkt is acked...move the window
+base  pkt  is = 862
+ack 862 received
+increase  window size  from  95 TO 96
+pkt is acked...move the window
+base  pkt  is = 863
+ack 863 received
+increase  window size  from  96 TO 97
+pkt is acked...move the window
+base  pkt  is = 864
+ack 864 received
+increase  window size  from  97 TO 98
+pkt is acked...move the window
+base  pkt  is = 865
+ack 865 received
+increase  window size  from  98 TO 99
+pkt is acked...move the window
+base  pkt  is = 866
+ack 866 received
+increase  window size  from  99 TO 100
+pkt is acked...move the window
+base  pkt  is = 867
+ack 867 received
+pkt is acked...move the window
+base  pkt  is = 868
+ack 868 received
+pkt is acked...move the window
+base  pkt  is = 869
+ack 869 received
+pkt is acked...move the window
+base  pkt  is = 870
+ack 870 received
+pkt is acked...move the window
+base  pkt  is = 871
+ack 871 received
+pkt is acked...move the window
+base  pkt  is = 872
+ack 872 received
+pkt is acked...move the window
+base  pkt  is = 873
+ack 873 received
+pkt is acked...move the window
+base  pkt  is = 874
+pkt 949 is sent
+pkt 950 is sent
+pkt 951 is sent
+pkt 952 is sent
+pkt 953 is sent
+pkt 954 is sent
+pkt 955 is sent
+pkt 956 is sent
+pkt 957 is sent
+pkt 958 is sent
+pkt 959 is sent
+pkt 960 is sent
+pkt 961 is sent
+pkt 962 is sent
+pkt 963 is sent
+pkt 964 is sent
+pkt 965 is sent
+pkt 966 is sent
+pkt 967 is sent
+Time Taken is 47 secs
